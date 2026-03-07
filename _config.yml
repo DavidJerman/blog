@@ -4,3 +4,5 @@ theme: minima
 baseurl: "/blog"
 url: "https://davidjerman.github.io"
 author: David Jerman
+minima:
+  skin: dark

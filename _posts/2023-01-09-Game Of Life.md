@@ -22,7 +22,7 @@ So I created a simple implementation in C++ that simulates the Game OF Life. You
 
 The implementation is cross-platform and uses the OneLoneCoder's Pixel Game Engine for displaying the cells. The library is open-source, easy to include and available on <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">OneLoneCoder/olcPixelGameEngine</a>. The game repository is also available on <a data-id="https://github.com/DavidJerman/GameOfLife" data-type="URL" href="https://github.com/DavidJerman/GameOfLife">DavidJerman/GameOfLife</a>
 
-![Image](../media/39e2a0_image-1.png)
+![Image](/media/39e2a0_image-1.png)
 
 *Game Of Life game state example*
 
@@ -30,7 +30,7 @@ The game allows you to either let the simulation play by itself or. you can set 
 
 Another interesting thing is that you can define other algorithms/rules. Conway's Game Of Life is just one of the many sets of rules that produce interesting output. It is defined as B3/S23 and as explained before, B stands for when cells are born, and S for when cells survive. Other interesting rules that I found (and you can find all of these and many more on Wikipedia) are B1/S12, which generates the following interesting pattern by just adding a single pixel in the middle of the screen:
 
-![Image](../media/e19f96_image-2.png)
+![Image](/media/e19f96_image-2.png)
 
 There are a lot more interesting patterns. I recommend you to try them, experiment with different rules and see what happens!
 

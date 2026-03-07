@@ -12,7 +12,7 @@ However, 2 stations later the train stopped. I already found it a bit weird that
 
 He offered me a drink. The selection wasn't out of this world, but he had some green tea, beer and two cans of chuhai. Chuhai is a Japanese alcoholic beverage that tastes like fuzzy vodka with an added taste of a lemon. Just not nearly as strong. I picked the last option, since I have tried this drink before and liked it quite a lot. I am not a big fan of alcohol beverages but this one tastes similar to Schweppes, just a bit more lemony. He then also offered me various snacks, one of which was a bag of radish and cheese sticks. The sticks tasted really good but they had a familiar flavor. Almost as if I have eaten something similar before, at home. A flavor from my homeland - but even after thinking for a while I just cannot remember where the taste comes from. Maybe I remember on my way back home. What matters is that the snacks were really tasty and the people around me really friendly. Grateful for the drink I was curious what their group was about. So of course I asked him. It turned out they were salary men and women working for an Aomori banking company. They had a collective holiday (or whatever this type of holiday is called). In addition to that I figured they were also going in the direction of Sendai (which is one of the stops from Aomori to Kyoto). And after a bit of chatting I also figured out that the train was not moving anywhere because of an accident on the Tohoku line. Out of all days it had to happen today when we have to cover a bunch of distance, didn't it?
 
-![Image](../media/277c9a_PXL_20240919_0051020722-1024x1024.jpg)
+![Image](/media/277c9a_PXL_20240919_0051020722-1024x1024.jpg)
 
 *The gentlemen's selection of drinks gave me a feeling the group was on a vacation*
 
@@ -20,7 +20,7 @@ But this story doesn't end here. The nice gentleman next to me who I will call Y
 
 So even though there were no bullet trains and we had to take an extra local train (in the end we arrived home at 11 pm), the whole journey was pretty entertaining. In Sendai when we each went our way, we exchanged a couple more words, smiles and shook hands. Thank you the kind people of Aomori and I hope you had a great vacation - even though I was told you had work already the following day.
 
-![Image](../media/89128f_PXL_20240919_084335987-1024x771.jpg)
+![Image](/media/89128f_PXL_20240919_084335987-1024x771.jpg)
 
 *A train like this decoupled and caused all these problems...*
 

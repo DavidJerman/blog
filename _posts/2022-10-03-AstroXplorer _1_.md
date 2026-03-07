@@ -32,7 +32,7 @@ The app was developed using C++ and the Qt graphics library. Qt is generally spe
 
 The Welcome (image) tab is the default tab, that is opened/selected upon opening the application. It obtains the image of the day and displays it to the user along with the image's description and title, as well as the date of the image of the date - the date usually being the same as the date of opening the application. The image is obtained using the NASA APOD API and thus it takes some time for the image to load. Sometimes there is no image available and there is only a video link. In this case the user is only provided with a video link. The video unfortunately cannot be played directly in the application, since the WebView widget was deprecated in the newer versions of Qt (this project using Qt 6.3 C++ API).
 
-![Image](../media/137d21_AstroXplorerWelcome.png)
+![Image](/media/137d21_AstroXplorerWelcome.png)
 
 *Welcome Image Tab*
 
@@ -40,13 +40,13 @@ The Welcome (image) tab is the default tab, that is opened/selected upon opening
 
 The Mars Rover Manifest contains information about the three Mars Rovers: Curiosity, Opportunity and Spirit. Each of the rovers has information about the cameras that it has, maximum number of sols, when the mission has ended and started etc. This information is especially useful when using the Mars Rover Imagery tab to obtain the rover imagery, as that tab requires the user to specify the date(s) of images, that the user wants to view. The API used here is the Mars Rover Imagery API, also provided by NASA.
 
-![Image](../media/f0c999_AstroXplorerMarsRoverManifest.png)
+![Image](/media/f0c999_AstroXplorerMarsRoverManifest.png)
 
 *The Opportunity Rover information shown in the MRM Tab*
 
 ## Mars Rover Imagery
 
-![Image](../media/61448f_AstroXplorerMarsRoverImagery.png)
+![Image](/media/61448f_AstroXplorerMarsRoverImagery.png)
 
 *The Browsing Tab of the MRI Tab - showing images for the Rear Hazard Camera of the Curiosity rover on the 120th sol*
 
@@ -56,11 +56,11 @@ This tab allows the user to explore the Martian rovers' imagery. The user can ei
 
 This tab allows the user to obtain images of the Earth captured by the DSCOVR's EPIC imagery instrument. The user can either type in the date - though it is to be noted, that some days have no imagery - or can use the provided slider to choose from the dates that do contain imagery. Two types of images are available: normal and enhanced. The tab also displays information about each image: coordinates, version, and various distances from and to other celestial objects, as well as a title, date and a caption. Usually each date contains multiple images, taken at different times of the day and using the play button, the user can, for most dates, view the animation of a rotating Earth. The API used here is the EPIC API, provided by NASA.
 
-![Image](../media/b834f3_AstroXplorerEPICDailyBlueMarbleSearch.png)
+![Image](/media/b834f3_AstroXplorerEPICDailyBlueMarbleSearch.png)
 
 *EPIC Tab downloading the images for a specified date*
 
-![Image](../media/722c20_AstroXplorerEPICDailyBlueMarbleEarthGIF.gif)
+![Image](/media/722c20_AstroXplorerEPICDailyBlueMarbleEarthGIF.gif)
 
 *Animation of a rotating Earth*
 
@@ -68,7 +68,7 @@ This tab allows the user to obtain images of the Earth captured by the DSCOVR's 
 
 This is a yet uncomplete tab, however it is going to function similar to Google Maps, except there won't be any advanced features such as route planning, markers etc., however the user will be able to choose among various different maps depicting everything from Earth temperatures, wind speeds to the Earth's relief. The map tiles are loaded on the run and when needed, so the user does not have to load the entire map to view it. The tab uses the GIBS API provided by NASA.
 
-![Image](../media/1d802d_AstroXplorerEarthView.png)
+![Image](/media/1d802d_AstroXplorerEarthView.png)
 
 *A map displaying Earth air temperatures*
 
@@ -76,6 +76,6 @@ This is a yet uncomplete tab, however it is going to function similar to Google 
 
 This tab allows the user to play podcasts, that can be loaded from RSS files. It works with any RSS file that is properly formatted and has all the audio controls that one would expect - volume control, next/previous song, skip time, save as favorite, search podcast/episode, auto-play etc. This tab does not use an API, since it obtains all the data using the provided RSS files - each file representing a podcast.
 
-![Image](../media/3e8c3d_AstroXplorerPodcasts.png)
+![Image](/media/3e8c3d_AstroXplorerPodcasts.png)
 
 *The Podcasts Tab*

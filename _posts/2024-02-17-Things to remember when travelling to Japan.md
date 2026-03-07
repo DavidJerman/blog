@@ -20,7 +20,7 @@ Regarding the Suica card. While I was in Japan, there was a semiconductor shorta
 
 Now, if you do not manage to purchase a Suica card, do not worry! The only difference is that you will have to buy tickets every time you board a bus, a tram or a train. First of all, there is the subway system (and this also applies to a lot of trains). When buying a subway ticket for the first time you are likely to get a little bit confused. First, there is the matter of there being multiple subway lines and sometimes even multiple train companies in the same building. You will have to be careful to buy the correct ticket. And second of all, there is the matter of actually buying the ticket. For the most part, buying a subway (and often a train) ticket consists of the following steps: locating the right vending machine, looking up the price of your ticket on the provided map above the vending machines and buying the ticket. The first part should be manageable if you use Google Maps. As for the second part, the map works the following way. It lists all the lines that depart at the train station that you are currently at. So, you find your destination and your destination lists the price (value) of the ticket that **you should pick when buying the ticket at a vending machine**. Remember this last part! And if you accidentally purchase the wrong ticket you can always approach the staff and they will refund your ticket.
 
-![Image](../media/557934_la-metro-in-the-style-of-a-japanese-transit-fare-map-v0-flm2vu34wfob1.png)
+![Image](/media/557934_la-metro-in-the-style-of-a-japanese-transit-fare-map-v0-flm2vu34wfob1.png)
 
 *LA Metro in the style of a Japanese transit fare map - found on an interesting Reddit post. This is what the mentioned subway fare map usually looks like. Source:Reddit.*
 
@@ -28,7 +28,7 @@ Secondly, there are the bullet trains. Purchasing tickets for those should not b
 
 And lastly, there are buses and trams. If you have a Suica card, then you just tap it on the terminal when you enter and leave the bus. Same procedure as with trains. If you do not have the card, then the procedure is quite different and relies on the honour system. Once you enter the bus or the tram it is advised that you take the (free) small paper with a number on it. This numbered piece of paper is usually obtained at the entrance from a little vending machine. The number represents the station where you entered the bus. After that, you wait until arrival at your destination. Shortly before arrival, you have to check the small screen at the top front of the bus. You look for your number and the price that you have to pay will be listed there. The price gets updated with every station since it is based on the distance travelled. Thus it is important to check it **right before arrival**. You will only be able to pay with cash, so have some spare change prepared to pay for the bus every time! In the worst case, there are usually 100 yen exchange vending machines on most buses. They let you exchange the 1000 yen bill for the smaller coins.
 
-![Image](../media/9b8b00_Naha_Okinawa_Japan_Fare-display-in-public-transport-01-min-1024x732.jpg)
+![Image](/media/9b8b00_Naha_Okinawa_Japan_Fare-display-in-public-transport-01-min-1024x732.jpg)
 
 *Bus fare display. Source:Wikipedia.*
 
@@ -66,13 +66,13 @@ If you want to eat well and try authentic food, then eat locally! Don't seek onl
 
 If you are not too picky like me, then I really recommend you ask for recommendations every time you order food. Just use the phrase 'osusume wa nan desu ka' (おすすめはなんですか) and they will almost certainly recommend an excellent dish. When I was in Enoshima, I did the same. I am not a fan of seafood, but I went to a well-rated local restaurant and ordered the recommended dish. I really wasn't sure what to expect. I let myself be surprised. Oh, and it is worth mentioning, that ordering food was a bit different than usual. And this wasn't the only restaurant with this way of ordering. I will explain it in the next paragraph. When the food arrived and, I am not going to lie, it did not look appetizing. It was a bowl filled with a bunch of small, white fish. And on top of it an egg yolk. It was nicely complemented with a miso soup, some pickles and a special type of algae. I looked them up, and apparently, they are called *kombu*. They are usually salted and sometimes sesame seeds are added to them when they are used as a complement to rice and similar dishes. As for the miso soup. it also had those small fish inside of it, making it a bit unappetizing. But I set aside the looks, poked the egg and dug in. And it was great! A perfect combination of umami, saltiness and the taste of egg yolk. I was pleasantly surprised and I finished the entire dish.
 
-![Image](../media/d14c6a_PXL_20230830_060323450.jpg)
+![Image](/media/d14c6a_PXL_20230830_060323450.jpg)
 
 *Shirasu donburi - Shirasu rice bowl. AKA "The dish with small white fish."*
 
 My point is, to eat local, try out new food and ask for recommendations. With that in mind, ordering food. In a couple of restaurants, I could only order by using their website. You scan the QR code and the menu opens. The QR code is different for every table, so whatever you order, is guaranteed to arrive at your table. On the website, you can order all the dishes, drinks, etc. The menus are also always available in English and most of the time coupled with pictures. I could probably order without that if I didn't have a phone, but it was a bit confusing for the first time nonetheless. Another different way of ordering that I have seen at some of the restaurants was via a ticket machine. You order and pay for the food at the ticket vending machine, take the ticket and bring it with you to your table or the counter. Your food will be delivered afterwards. Some older restaurants even have those older push-button ticket machines that display a single dish per button.
 
-![Image](../media/0130a7_PXL_20230907_042002071-min-2-1024x512.jpg)
+![Image](/media/0130a7_PXL_20230907_042002071-min-2-1024x512.jpg)
 
 *One of the best meals I have had at a local restaurant in Matsushima. The sashimi is mostly gone since I had already eaten all of it by the time I took the picture.*
 

@@ -46,7 +46,7 @@ After that, the trip spans all the way from Aomori to Hiroshima. That might be q
 
 - Nagoya Castle.
 
-![Image](../media/c96129_image.png)
+![Image](/media/c96129_image.png)
 
 *Some points of interest that I have saved on Google Maps.*
 

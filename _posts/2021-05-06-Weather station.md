@@ -30,13 +30,13 @@ The weather station consists of a simple wooden housing, which of course is pain
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:46% auto">
 
-![Image](../media/1384fa_kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa37f9672.5900311015338072675226.png)
+![Image](/media/1384fa_kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa37f9672.5900311015338072675226.png)
 
 <div class="wp-block-media-text__content">
 
 The programming languages used in this project are Python, Arduino Language (C++) and HTML. The website was made using a python library Flask.
 
-![Image](../media/0cab74_learning-python-programming-language-computer-programming-logo-photo-studio-flex-design-83d33107704fdee4724eb4f0b354f569.png)
+![Image](/media/0cab74_learning-python-programming-language-computer-programming-logo-photo-studio-flex-design-83d33107704fdee4724eb4f0b354f569.png)
 
 *Python logo*
 
@@ -175,7 +175,7 @@ while True:
 
 The temperature and humidity plots are created every 5 minutes for the past measurements. The graphs, data are also normalized, to make them nicer and more readable, as well as more reliable, since they are displaying averages over time. Here is and example of the temperature graph:
 
-![Image](../media/cb627f_plot_compressed_2021_05_06_22_30.jpg)
+![Image](/media/cb627f_plot_compressed_2021_05_06_22_30.jpg)
 
 *Temperature graph*
 

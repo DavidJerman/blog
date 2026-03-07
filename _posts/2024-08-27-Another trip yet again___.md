@@ -3,6 +3,7 @@ category: travel
 title: "Another trip yet again..."
 date: 2024-08-27
 image: /blog/media/c96129_image.png
+tags: japan2024
 ---
 
 A year has passed and it is yet again time for me to embark on another journey. And yet again, my journey leads me to a familiar place that left such a big impression on me for the first time, that I have long wanted to revisit it as soon as possible.

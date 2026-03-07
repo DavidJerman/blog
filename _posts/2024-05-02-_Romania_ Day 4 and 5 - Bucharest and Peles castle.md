@@ -3,6 +3,7 @@ category: travel
 title: "[Romania] Day 4 and 5 - Bucharest and Peles castle"
 date: 2024-05-02
 image: /blog/media/68dac8_IMG_0963.jpeg
+tags: romania2024
 ---
 
 We woke up late, the night was long and eventful, but I won’t go into details. It was a calm rainy day, perfect for sightseeing and making ourselves a breakfast. We decided not to eat out for once, so we headed to the nearby Mega Image. Mega Image you say? Well, no, it is not a camera equipment shop, it is a grocery store. I woke up earlier than some of my friends and so the three of us who were awake, decided to do the shopping for today. We bought some bread, eggs, bacon and a bottle of orange juice - a filling, tasty breakfast.

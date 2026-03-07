@@ -3,6 +3,7 @@ category: travel
 title: "[Romania] Day 3 - Sibiu and Bucharest"
 date: 2024-05-01
 image: /blog/media/68dac8_IMG_0963.jpeg
+tags: romania2024
 ---
 
 I’m going to be short today, because I am both tired and not a lot has happened today. Everything was either delayed or we had to wait a lot - with the exception of Romanian drivers. They were the ones waiting to pass us on the road. For some reason, even though we were driving slightly above the speed limits, the cars behind us were always faster - we were once even overtaken by a double-trailer truck. It seemed like everyone was in a hurry. But we didn’t let this bother us too much. We just let the cars pass occasionally and everything was fine.

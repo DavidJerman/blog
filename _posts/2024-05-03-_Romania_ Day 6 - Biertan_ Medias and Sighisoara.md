@@ -3,6 +3,7 @@ category: travel
 title: "[Romania] Day 6 - Biertan, Medias and Sighisoara"
 date: 2024-05-03
 image: /blog/media/68dac8_IMG_0963.jpeg
+tags: romania2024
 ---
 
 It’s already day 6. I woke up at 6:30, because I couldn’t sleep anymore. My friend was once again snoring so loudly, I could hear him outside the hotel room. So I just gave up on sleeping and went outside to write this post. So, yesterday, on day 6 of our journey, we first headed over to Biertan. I am not exactly sure how we picked this city, but the town was much more rural than anything we have visited before. I actually quite liked it. Smaller villages are my thing and I prefer visiting them to cities. Sure, Tokyo, Bucharest, Paris were all nice cities - I ate good food, I saw a lot of attractions, I met new people, but I had the most fun while on the countryside or in smaller towns. People there felt warmer, more welcoming and I could take things easy. Biertan was just that - a peaceful little town with a church on top of the hill and everywhere I looked I could see a farm or two in the distance.

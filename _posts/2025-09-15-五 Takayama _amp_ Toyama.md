@@ -2,6 +2,7 @@
 category: travel
 title: "五 Takayama &amp; Toyama"
 date: 2025-09-15
+tags: japan2025
 ---
 
 Takayama and Toyama were two of the many cities I picked randomly. And I suppose, by accident, I picked one of the most touristic towns possible. Which certainly did not sit well with me, because I sincerely dislike big crowds of tourists. The hotel I was at... I heard more Spanish than I did Japanese!

@@ -3,6 +3,7 @@ category: travel
 title: "[Japan - Yon] Izu Oshima"
 date: 2024-09-14
 image: /blog/media/2dbf3c_PXL_20240910_014612583-scaled.jpg
+tags: japan2024
 ---
 
 Good morning from the other side of Tokyo archipelago. I just woke up from a shitty 5 hours sleep on the overnight Silvia Maru ferry that took us to the Izu Oshima island. I really didn't sleep much for several reasons: it was really cold, the guy next to me was snoring and the floor was really hard to sleep on. But at least we made it to the other side. It was way more enjoyable than the 15 hour flight from Austria to Japan. But nothing a cup of coffee or an energy drink cannot solve.I  checked the weather and it looked like it was going to rain the entire day. Given we wanted to climb Mt. Mihara, we decided it would be wise to start the hike as early as possible. But there was just one obstacle preventing my friend from starting immediately. Heavy luggage. While I managed to pack fairly lightly (~ 6kg and my bag is third empty, and I still have more stuff than I really need), she didn't achieve the same result with her luggage weighting slightly over 8kg. Thus the mission to find a locker or something similar began. 

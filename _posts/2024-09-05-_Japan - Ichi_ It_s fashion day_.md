@@ -3,6 +3,7 @@ category: travel
 title: "[Japan - Ichi] It’s fashion day!"
 date: 2024-09-05
 image: /blog/media/76cbe5_PXL_20240905_093241132-1-scaled.jpg
+tags: japan2024
 ---
 
 Our day began pretty late today. At first I woke up at 8:30 but I just couldn’t get myself to wake up just yet. So I went back to sleep and we woke up later at 12 PM. A bit late, but we got ourselves ready and headed to Yoyogi Park - a new spot that I haven’t been to before. The park was a mere 20min ride away with the Chuo-Sobu metro line.

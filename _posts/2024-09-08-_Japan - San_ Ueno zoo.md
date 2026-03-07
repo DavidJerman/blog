@@ -3,6 +3,7 @@ category: travel
 title: "[Japan - San] Ueno zoo"
 date: 2024-09-08
 image: /blog/media/e99fe7_PXL_20240908_033255963-1.jpg
+tags: japan2024
 ---
 
 The last day in Tokyo has come. Again, we woke up without a proper plan in our mind. We just thought it would be cool to go to another park. Thus we headed towards the Ueno park, one of the biggest and busiest parks in Tokyo. And so, after leaving our Airbnb and taking a short ride on the Tokyo metro, we arrived at the Okachimachi station.

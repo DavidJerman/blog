@@ -3,6 +3,7 @@ category: travel
 title: "[Japan - Zero] Ich fahre nach Japan"
 date: 2024-09-04
 image: /blog/media/bd5226_PXL_20240903_095337540-scaled.jpg
+tags: japan2024
 ---
 
 ... is the sentence I managed to muster the last time I was in Vienna, talking to a homeless person while "enjoying" my dried-out cheese bun on a bench in a park. I even gave him all of my remaining euros - thinking I wouldn't the money anymore when in Japan. My German is merely on a tourist level, so I couldn't manage to have any further conversation with him. At least he kept me company until I left for the airport.

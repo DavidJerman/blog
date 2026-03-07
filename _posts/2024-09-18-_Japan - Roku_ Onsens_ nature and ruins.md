@@ -3,6 +3,7 @@ category: travel
 title: "[Japan - Roku] Onsens, nature and ruins"
 date: 2024-09-18
 image: /blog/media/945a0f_PXL_20240912_062753591-scaled.jpg
+tags: japan2024
 ---
 
 I woke up to the sound of loud a loud French couple talking in front of my capsule. They just couldn’t have picked a better spot, could they? Bla, bla, bla for 15 minutes. Please just go out and talk outside, is it really that hard? I would even have said “merci beaucoup” had they left the room. Now being fully awake, I decided it was time to start packing and prepare myself for the longer ride to Nikko. The JRPass that we bought wasn’t active yet, so we had to use the rapid/express and the local trains to get to our destination.

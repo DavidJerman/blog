@@ -3,6 +3,7 @@ category: travel
 title: "[Romania] Day 2 - Hunedoara"
 date: 2024-04-28
 image: /blog/media/68dac8_IMG_0963.jpeg
+tags: romania2024
 ---
 
 On day 2 we decided to go to the Corvin castle situated in the city of Hunedoara. But before that, we headed to the Timisoara city center to enjoy a morning coffee and some breakfast. The city felt much different during the day than the day before during the night. During the night, the town was fully lit in the old city center. One of the streets was probably even brighter during the night than during the day. The lightning was really nice, giving the city an exciting vibe.

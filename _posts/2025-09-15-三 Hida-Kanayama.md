@@ -2,6 +2,7 @@
 category: travel
 title: "三 Hida-Kanayama"
 date: 2025-09-15
+tags: japan2025
 ---
 
 After Nagoya, I wanted to visit something even less known, even less touristy. So I looked at the map... and saw that a railway foes from Nagoya to Toyama. What if, I just picked some random cities/villages to visit in this valley. I opened booking, and saw that there were almost no cheap options outside the big cities. But there was one accommodation in Hida-Kanayama. I have never heard of this city before but I thought it would be really cool to visit an unknown town in the Hida region. And I have to say, it was a good choice!

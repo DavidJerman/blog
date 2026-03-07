@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - Ni] Bunraku"
 date: 2024-09-08
 image: ../media/9dc415_PXL_20240906_090405047-1-scaled.jpg

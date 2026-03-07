@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - Nana] A taste of Nikko"
 date: 2024-09-18
 image: ../media/1a5be4_IMG_9025-1-scaled.jpg

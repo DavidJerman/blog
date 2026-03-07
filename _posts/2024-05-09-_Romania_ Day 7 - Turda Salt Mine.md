@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Romania] Day 7 - Turda Salt Mine"
 date: 2024-05-09
 image: ../media/68dac8_IMG_0963.jpeg

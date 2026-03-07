@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - Roku] Onsens, nature and ruins"
 date: 2024-09-18
 image: ../media/945a0f_PXL_20240912_062753591-scaled.jpg

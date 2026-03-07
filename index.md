@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: David's Log
 ---
 
@@ -7,7 +7,39 @@ title: David's Log
 
 Welcome! This is where I document my deep dives into **Assembly (x64 NASM)** and **Micro-Architecture**, mixed with stories from my travels across **Japan, Romania, and beyond**.
 
-This site was migrated from a wordpress site, using a python script, so there might still be some visual quirks in the posts.
+---
+
+<details>
+<summary>🗺️ <b>Travel Journals</b> (Japan, Romania, Europe)</summary>
+<ul>
+  {% for post in site.categories.travel %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> - <small>{{ post.date | date: "%b %Y" }}</small></li>
+  {% endfor %}
+</ul>
+</details>
+
+<details>
+<summary>💻 <b>Tech & Low-Level Engineering</b> (Assembly, Hardware, Code)</summary>
+<ul>
+  {% for post in site.categories.tech %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> - <small>{{ post.date | date: "%b %Y" }}</small></li>
+  {% endfor %}
+</ul>
+</details>
+
+<details>
+<summary>📝 <b>Other Posts</b></summary>
+<ul>
+  {% for post in site.posts %}
+    {% unless post.categories contains "travel" or post.categories contains "tech" %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+</details>
 
 ---
-### Latest Posts
+### Recent Updates
+{% for post in site.posts limit:3 %}
+* [{{ post.title }}]({{ post.url | relative_url }}) ({{ post.date | date: "%b %d" }})
+{% endfor %}

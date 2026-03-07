@@ -1,4 +1,5 @@
 ---
+category: tech
 title: "The inner working of JPEG"
 date: 2025-06-17
 image: ../media/a2a5d0_yuv_demo.png

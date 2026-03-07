@@ -1,4 +1,5 @@
 ---
+category: tech
 title: "Quick Assembly cheat sheet [x64 NASM]"
 date: 2022-11-23
 image: ../media/89806b_assembly-programming-language-code-monitor-50939740.jpg

@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - Yon] Izu Oshima"
 date: 2024-09-14
 image: ../media/2dbf3c_PXL_20240910_014612583-scaled.jpg

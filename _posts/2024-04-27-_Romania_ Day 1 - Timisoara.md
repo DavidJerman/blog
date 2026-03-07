@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Romania] Day 1 - Timisoara"
 date: 2024-04-27
 image: ../media/68dac8_IMG_0963.jpeg

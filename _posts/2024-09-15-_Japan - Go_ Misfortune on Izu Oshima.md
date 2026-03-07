@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - Go] Misfortune on Izu Oshima"
 date: 2024-09-15
 image: ../media/baa592_PXL_20240911_024945158-scaled.jpg

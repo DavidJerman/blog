@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - Zero] Ich fahre nach Japan"
 date: 2024-09-04
 image: ../media/bd5226_PXL_20240903_095337540-scaled.jpg

@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Romania] Day 2 - Hunedoara"
 date: 2024-04-28
 image: ../media/68dac8_IMG_0963.jpeg

@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "Things to remember when travelling to Japan"
 date: 2024-02-17
 image: ../media/013d47_cover_2-min-scaled.jpg

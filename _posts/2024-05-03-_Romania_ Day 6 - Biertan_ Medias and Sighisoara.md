@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Romania] Day 6 - Biertan, Medias and Sighisoara"
 date: 2024-05-03
 image: ../media/68dac8_IMG_0963.jpeg

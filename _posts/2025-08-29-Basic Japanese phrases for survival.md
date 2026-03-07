@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "Basic Japanese phrases for survival"
 date: 2025-08-29
 ---

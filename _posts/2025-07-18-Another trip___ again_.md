@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "Another trip... again?"
 date: 2025-07-18
 image: ../media/76cbe5_PXL_20240905_093241132-1-scaled.jpg

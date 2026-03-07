@@ -1,4 +1,5 @@
 ---
+category: tech
 title: "CPU Monitor [1] - A bit closer to hardware"
 date: 2022-11-07
 image: ../media/89806b_assembly-programming-language-code-monitor-50939740.jpg

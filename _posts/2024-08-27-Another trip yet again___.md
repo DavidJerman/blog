@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "Another trip yet again..."
 date: 2024-08-27
 image: ../media/c96129_image.png

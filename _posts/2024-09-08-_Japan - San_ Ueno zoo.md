@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - San] Ueno zoo"
 date: 2024-09-08
 image: ../media/e99fe7_PXL_20240908_033255963-1.jpg

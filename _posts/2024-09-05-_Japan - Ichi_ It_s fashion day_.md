@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - Ichi] It’s fashion day!"
 date: 2024-09-05
 image: ../media/76cbe5_PXL_20240905_093241132-1-scaled.jpg

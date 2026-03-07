@@ -1,8 +1,12 @@
 title: David's Log
 description: A journey through x64 Assembly and world travels.
-theme: minima
 baseurl: "/blog"
 url: "https://davidjerman.github.io"
 author: David Jerman
+
+# Theme
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
   skin: dark

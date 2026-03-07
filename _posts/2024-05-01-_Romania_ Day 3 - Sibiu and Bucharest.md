@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Romania] Day 3 - Sibiu and Bucharest"
 date: 2024-05-01
 image: ../media/68dac8_IMG_0963.jpeg

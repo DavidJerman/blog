@@ -1,4 +1,5 @@
 ---
+category: tech
 title: "Game Of Life"
 date: 2023-01-09
 image: ../media/39e2a0_image-1.png

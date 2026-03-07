@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "A trip to Austria"
 date: 2021-09-23
 image: ../media/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg

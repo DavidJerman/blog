@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Japan - Kyuu] Nebuta Matsuri"
 date: 2024-09-23
 image: ../media/8c1d09_PXL_20240916_074342347-1-scaled.jpg

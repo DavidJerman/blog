@@ -1,4 +1,5 @@
 ---
+category: tech
 title: "Horizontal Micro-Architecture Simulator [1]"
 date: 2023-01-21
 image: ../media/6cb21c_image-3.png

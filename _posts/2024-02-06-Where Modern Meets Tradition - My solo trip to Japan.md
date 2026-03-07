@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "Where Modern Meets Tradition - My solo trip to Japan"
 date: 2024-02-06
 image: ../media/f7970d_cover-1-scaled.jpg

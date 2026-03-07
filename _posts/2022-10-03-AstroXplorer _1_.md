@@ -1,4 +1,5 @@
 ---
+category: tech
 title: "AstroXplorer [1]"
 date: 2022-10-03
 image: ../media/3e8c3d_AstroXplorerPodcasts.png

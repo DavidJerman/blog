@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "[Romania] Day 4 and 5 - Bucharest and Peles castle"
 date: 2024-05-02
 image: ../media/68dac8_IMG_0963.jpeg

@@ -1,0 +1,31 @@
+<link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+
+<style>
+  .post-content img {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    margin: 2rem auto;
+    display: block;
+    cursor: pointer; /* Tells users they can click it */
+    transition: transform 0.2s ease;
+  }
+  .post-content img:hover {
+    transform: scale(1.02);
+  }
+</style>
+
+<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Automatically wrap all post images in a lightbox link
+    document.querySelectorAll('.post-content img').forEach(img => {
+      const wrapper = document.createElement('a');
+      wrapper.href = img.src;
+      wrapper.classList.add('glightbox');
+      img.parentNode.insertBefore(wrapper, img);
+      wrapper.appendChild(img);
+    });
+    const lightbox = GLightbox({ selector: '.glightbox' });
+  });
+</script>

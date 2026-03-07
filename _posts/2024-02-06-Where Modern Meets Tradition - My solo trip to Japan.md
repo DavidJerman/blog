@@ -2,7 +2,7 @@
 category: travel
 title: "Where Modern Meets Tradition - My solo trip to Japan"
 date: 2024-02-06
-image: ../media/f7970d_cover-1-scaled.jpg
+image: /blog/media/f7970d_cover-1-scaled.jpg
 ---
 
 Before I begin, let me clarify just one thing. This trip happened in September 2023, but I did not publish anything about it until now since it took me that long to finish this post. With this in mind, this was my first trip to Japan.

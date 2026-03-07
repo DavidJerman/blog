@@ -2,7 +2,7 @@
 category: tech
 title: "The inner working of JPEG"
 date: 2025-06-17
-image: ../media/a2a5d0_yuv_demo.png
+image: /blog/media/a2a5d0_yuv_demo.png
 ---
 
 Imagine a world without JPEG… well, actually, I can. These days, we’ve got plenty of more advanced image compression formats—JPEG2000, JPEG-LS, WebP, AVIF, and so on. JPEG could almost be called a relic of the past. It’s tech from the late 80s, yet it's still everywhere simply because it works well enough and became a standard.

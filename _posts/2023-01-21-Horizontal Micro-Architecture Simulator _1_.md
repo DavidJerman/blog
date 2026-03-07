@@ -2,7 +2,7 @@
 category: tech
 title: "Horizontal Micro-Architecture Simulator [1]"
 date: 2023-01-21
-image: ../media/6cb21c_image-3.png
+image: /blog/media/6cb21c_image-3.png
 ---
 
 This is just an introductory post into the development of a MIC1 horizontal microarchitecture simulator. The aim is to simulate the working of such an architecture, allow the parsing of pascal like code to write a micro-program and while simulating the execution of an instruction also visualize it.

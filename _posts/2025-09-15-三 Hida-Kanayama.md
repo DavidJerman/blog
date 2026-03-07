@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "三 Hida-Kanayama"
 date: 2025-09-15
 ---

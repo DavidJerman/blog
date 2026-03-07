@@ -1,7 +1,8 @@
 ---
+category: tech
 title: "Hello world of assembly"
 date: 2022-11-08
-image: ../media/89806b_assembly-programming-language-code-monitor-50939740.jpg
+image: /blog/media/89806b_assembly-programming-language-code-monitor-50939740.jpg
 ---
 
 Assembly is the closest most programmers will ever get to hardware, since it is almost like machine language - just that the groups of bits are replaced with instructions. And while a hello world might be pretty simple in a high-level language like Python, Ruby, C++, C#, Java or something similar, it is not so simple in assembly, because even to write a basic hello world program we have to understand the computer architecture - how the components of a computer work together. Without that knowledge it is hard to understand assembly at all, so I will assume the reader has some knowledge of that, however I am leaving a video that describes the basics of <a data-id="https://www.youtube.com/watch?v=vgPFzblBh7w" data-type="URL" href="https://www.youtube.com/watch?v=vgPFzblBh7w" rel="noreferrer noopener" target="_blank">how the CPU works</a>. Also <a data-id="https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf" data-type="URL" href="https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf" rel="noreferrer noopener" target="_blank">here </a>is a guide on assembly programming that I found. It is also important to note that this code was developed and ran on a Linux system (Ubuntu 22.04.1 LTS x86_64) and might not work on other operating systems.

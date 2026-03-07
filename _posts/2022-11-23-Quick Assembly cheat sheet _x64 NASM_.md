@@ -2,7 +2,7 @@
 category: tech
 title: "Quick Assembly cheat sheet [x64 NASM]"
 date: 2022-11-23
-image: ../media/89806b_assembly-programming-language-code-monitor-50939740.jpg
+image: /blog/media/89806b_assembly-programming-language-code-monitor-50939740.jpg
 ---
 
 This is just a list of some basic ASM instructions and C functions that are useful when getting started with assembly. Instructions that require additional values in registers will have a list of required values. The list is still being worked on. For more instructions one should use a NASM manual, reference or something similar. Once you understand the basics it isn't hard to look at the manual for new instructions. Note that the wording and terminology might be wrong here and there since I am still a beginner at this.

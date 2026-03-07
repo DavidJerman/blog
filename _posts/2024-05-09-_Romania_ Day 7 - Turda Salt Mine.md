@@ -2,7 +2,7 @@
 category: travel
 title: "[Romania] Day 7 - Turda Salt Mine"
 date: 2024-05-09
-image: ../media/68dac8_IMG_0963.jpeg
+image: /blog/media/68dac8_IMG_0963.jpeg
 ---
 
 I woke up early after a sleepless night. My friend was once again snoring like a gorilla, leaving me no choice but to wake up and go outside the room. I don't understand how I never wake myself up, since my friends claim I snore too. It is the first time I was told I do that during sleep. But anyway, I got almost used to this by the seventh day, so I just continued with my day. With the iPad in my hand, I sat on the couch outside the hotel room and decided to write about the day before - day 6. An hour or two passed and I was already thinking if I should start reading my newly bought book - Shogun. I will probably write a short post about it (when I finish the book) since I fell in love with it and the recent series based on this novel. But as soon as I started thinking about the book, my other (less snoring) friend joined me on the couch. He too complained of loud snoring and I could relate. And so we both awaited the awakening of our friends so that we could head to the dining area for breakfast.

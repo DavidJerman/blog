@@ -1,7 +1,8 @@
 ---
+category: tech
 title: "Examples of ASM code [x64 NASM]"
 date: 2022-11-25
-image: ../media/89806b_assembly-programming-language-code-monitor-50939740.jpg
+image: /blog/media/89806b_assembly-programming-language-code-monitor-50939740.jpg
 ---
 
 **Average of an array**  

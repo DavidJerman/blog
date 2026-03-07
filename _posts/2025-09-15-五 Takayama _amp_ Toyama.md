@@ -1,4 +1,5 @@
 ---
+category: travel
 title: "五 Takayama &amp; Toyama"
 date: 2025-09-15
 ---

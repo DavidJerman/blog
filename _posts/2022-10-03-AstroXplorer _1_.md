@@ -2,7 +2,7 @@
 category: tech
 title: "AstroXplorer [1]"
 date: 2022-10-03
-image: ../media/3e8c3d_AstroXplorerPodcasts.png
+image: /blog/media/3e8c3d_AstroXplorerPodcasts.png
 ---
 
 AstroXplorer is an application that allows the user the view various data about the Earth and other celestial bodies in our solar system - primarily Earth and Mars. You can find the project on <a data-id="https://github.com/DavidJerman/AstroXplorer" data-type="URL" href="https://github.com/DavidJerman/AstroXplorer">GitHub</a>.

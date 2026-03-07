@@ -2,7 +2,7 @@
 category: tech
 title: "CPU Monitor [1] - A bit closer to hardware"
 date: 2022-11-07
-image: ../media/89806b_assembly-programming-language-code-monitor-50939740.jpg
+image: /blog/media/89806b_assembly-programming-language-code-monitor-50939740.jpg
 ---
 
 After deciding to make a <a data-id="https://github.com/DavidJerman/CPUMonitor" data-type="URL" href="https://github.com/DavidJerman/CPUMonitor">CPU monitor application</a> in C++, I thought to myself that it should be a fairly simple task involving the calling of some libraries, but a closer look at the problem revealed that this is not the case.  Sure there are some libraries on the internet that offer all sorts of CPU information, but to get all the data, I decided to write my own library. This however is not so straightforward. Accessing the CPU information requires the use of assembly language, which can be embedded in the C++ code. <a data-id="https://nixhacker.com/getting-processor-info-using-cpuid/" data-type="URL" href="https://nixhacker.com/getting-processor-info-using-cpuid/">A useful guide that helped me get started</a>.

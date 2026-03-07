@@ -2,7 +2,7 @@
 category: tech
 title: "Horizontal Micro-Architecture Simulator [2]"
 date: 2023-01-25
-image: ../media/6cb21c_image-3.png
+image: /blog/media/6cb21c_image-3.png
 ---
 
 This is just an update to tell the state of the development. As of writing, a large portion of the simulator works - though there might still be some bugs here and there, which is why intensive testing of the program will be required. There a couple of things that I have modified as well as a couple of new things.

@@ -2,7 +2,7 @@
 category: travel
 title: "[Japan - Go] Misfortune on Izu Oshima"
 date: 2024-09-15
-image: ../media/baa592_PXL_20240911_024945158-scaled.jpg
+image: /blog/media/baa592_PXL_20240911_024945158-scaled.jpg
 ---
 
 It was time to head back to Tokyo. It was our third day on Izu Oshima but we were planning to head back to** **Tokyo by lunch. We woke up around 9, got ready by 10 and then headed towards the terminal. We intended to spend an hour or two inside the main building since it was cooled by AC, to avoid the heat of the day. After a while it was time for lunch - and the lunch was great! We ordered a tenpura set which came with many side dishes, rice and a miso soup. The tenpura (which is basically a light fry) consisted of fried vegetables and two big shrimps. The side dishes on the other hand consisted of: Japanese pickled cucumbers, shredded radish, cooked vegetables and tofu, a weird salad (I think it was made out of sea grass) and a dip for the tenpura.

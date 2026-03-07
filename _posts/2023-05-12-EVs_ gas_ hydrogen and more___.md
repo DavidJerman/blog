@@ -1,7 +1,8 @@
 ---
+category: tech
 title: "EVs, gas, hydrogen and more..."
 date: 2023-05-12
-image: ../media/3de0cb_2022-BMW-iX-vs-competition-spec-comparison-scaled.webp
+image: /blog/media/3de0cb_2022-BMW-iX-vs-competition-spec-comparison-scaled.webp
 ---
 
 We live in the age, where gas-powered cars or ICEs (short for Internal Combustion Engine) are not the only types of vehicles on the road. There are various other kinds of cars available on the market in this day and age. Each of them has specific upsides and downsides to them. Some are more expensive, some of them more environmentally friendly, some offer a longer range as a result of a more energy-dense fuel and so on. I will be comparing all of them based on fuel production and price, overall price of the car, environmental impact, infrastructure and much more. However, I will mainly focus on electric vs. gas since this is the most commonly debated comparison when it comes to cars right now. I will try to address the most commonly debated topics such as cobalt mining, sources of electricity for EVs etc. I will try to base this analysis on data from various countries, but will probably mostly focus on the EU and US since these are the markets I am most familiar with. I will also try to cross-reference the data, since I want to make an unbiased report on the matter, one that is based on facts and research. However, there goes a disclaimer: I am not an expert in this field, I am just a technology enthusiast, interested in any new technology and curious about how things really are. So I encourage you to research my claims yourself!

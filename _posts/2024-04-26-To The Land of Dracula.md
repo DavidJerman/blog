@@ -1,7 +1,8 @@
 ---
+category: travel
 title: "To The Land of Dracula"
 date: 2024-04-26
-image: ../media/68dac8_IMG_0963.jpeg
+image: /blog/media/68dac8_IMG_0963.jpeg
 ---
 
 This time I am going on a trip to Romania. It is a trip that has long been on the top of my mind, but I never really managed to go there, since I never found anyone interested in travelling there. Sure, I could have gone solo, like when I visited Japan, but I would rather have a companion or two this time around. And so, tomorrow, we are about to embark on a journey to Romania.

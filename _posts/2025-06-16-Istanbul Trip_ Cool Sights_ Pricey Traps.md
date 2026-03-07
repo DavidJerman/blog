@@ -1,7 +1,8 @@
 ---
+category: travel
 title: "Istanbul Trip: Cool Sights, Pricey Traps"
 date: 2025-06-16
-image: ../media/e10684_PXL_20250426_120622253-scaled.jpg
+image: /blog/media/e10684_PXL_20250426_120622253-scaled.jpg
 ---
 
 Istanbul was one of the few remaining "European" destinations on my list. While Turkey is not a part of the EU, it borders two EU countries, and it is partially on the European continent. The other half of Turkey, however, is in Asia—or as the locals often referred to it, Anatolia. Anatolia is how Turks refer to the Asian peninsula that makes up the majority of Turkey’s land area.

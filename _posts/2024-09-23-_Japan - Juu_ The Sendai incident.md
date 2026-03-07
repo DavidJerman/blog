@@ -2,7 +2,7 @@
 category: travel
 title: "[Japan - Juu] The Sendai incident"
 date: 2024-09-23
-image: ../media/e0413d_PXL_20240919_084335987-1-scaled.jpg
+image: /blog/media/e0413d_PXL_20240919_084335987-1-scaled.jpg
 ---
 
 When I woke up that day on 19th of september, I did not imagine I would have a long conversation with a bunch of businessmen going to Sendai. We also shared some food and drinks. But this might be a bit out of context, so let me tell you the whole story.

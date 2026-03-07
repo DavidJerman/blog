@@ -2,7 +2,7 @@
 category: travel
 title: "[Japan - Ni] Bunraku"
 date: 2024-09-08
-image: ../media/9dc415_PXL_20240906_090405047-1-scaled.jpg
+image: /blog/media/9dc415_PXL_20240906_090405047-1-scaled.jpg
 ---
 
 And yet another post. This time I am writing right after I have arrived from an onsen. Oh man… it’s been a long time since I have been to an onsen. For anyone not familiar with an onsen, it is a public bath with a couple of showers and a couple of hot springs. The one I have been to, has a germanium bath. I am not into healing baths and so on, but apparently germanium baths give you positive effects such as increased circulation, glowing skin, weight loss and detoxification. I suppose my skin is much healthier now? Well, one thing is for sure. I feel a lot better after going to an onsen. It recharges my body, enhances my senses and makes me feel like I was reborn. You might be amazed by all of this and think to yourself, I want to try this as well! I invite you to do so, but there is a little warning: there is a bunch of etiquette you need to follow, including not wearing any clothes. There are some onsens that allow swimwear, but for the most part, onsens do not allow this.

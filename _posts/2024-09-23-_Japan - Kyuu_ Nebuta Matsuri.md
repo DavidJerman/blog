@@ -2,7 +2,7 @@
 category: travel
 title: "[Japan - Kyuu] Nebuta Matsuri"
 date: 2024-09-23
-image: ../media/8c1d09_PXL_20240916_074342347-1-scaled.jpg
+image: /blog/media/8c1d09_PXL_20240916_074342347-1-scaled.jpg
 ---
 
 Aomori is one of the northern most cities on the main island of Japan - Honshu. And further north there is the second biggest island - Hokkaido. Hokkaido is one of the most popular places in Japan, especially in winter, when the snow covers the entire island and in some places reaches even a couple metres in height. The biggest city in Hokkaido is Sapporo, and were it connected with a bullet train, I would probably have visited it as well. Unfortunately though, the HSR line to Sapporo is still under construction and won’t be complete until at least 2027. Thus I basically only stayed in Aomori and there was still a lot to see and do for the duration of 3 days that we spent there.

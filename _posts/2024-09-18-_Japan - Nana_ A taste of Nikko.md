@@ -2,7 +2,7 @@
 category: travel
 title: "[Japan - Nana] A taste of Nikko"
 date: 2024-09-18
-image: ../media/1a5be4_IMG_9025-1-scaled.jpg
+image: /blog/media/1a5be4_IMG_9025-1-scaled.jpg
 ---
 
 Originally I intended to spend an entire day in Nikko. But due to some changes in our plans we decided we would dedicate just a couple hours to visiting this city. While there was certainly more to see, we visited the major attractions that Nikko is famous for. So as far as I am concerned, we didn’t miss much. Perhaps we skipped a shrine or two, but I have seen so many shrines already that I do not feel bad about it. Sure, I love to see every new shrine, but there will be at least 10 more that I will see just by going to Kyoto.

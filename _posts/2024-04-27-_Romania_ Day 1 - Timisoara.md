@@ -2,7 +2,7 @@
 category: travel
 title: "[Romania] Day 1 - Timisoara"
 date: 2024-04-27
-image: ../media/68dac8_IMG_0963.jpeg
+image: /blog/media/68dac8_IMG_0963.jpeg
 ---
 
 Day 1 begins, but before that, let’s go back 8 hours. 10 PM. The discounted Chinese food we ordered finally arrived. We ordered two chicken noodles, fried bananas and spring rolls. The dishes were exquisite given their price. I was really surprised by how good the food was, since it was twice as cheap as anything else on Glovo. And so my stomach was full, and I was ready to go to sleep. But sleep I would not. First of all, since we did not have enough beds, onbe of us would have to sleep in a sleeping bag - unfortunately on the ground. It was me, who volunteered to be the martry. And so we went to sleep. I had finally found a comfortable sleeping position, when my friend started snoring, loudly. After 30 minutes I still wasn’t asleep. So I was forced to move to another room. There I was actually able to fall asleep, but only after trying several sleeping positions.

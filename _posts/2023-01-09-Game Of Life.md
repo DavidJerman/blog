@@ -2,7 +2,7 @@
 category: tech
 title: "Game Of Life"
 date: 2023-01-09
-image: ../media/39e2a0_image-1.png
+image: /blog/media/39e2a0_image-1.png
 ---
 
 Game Of Life, or short Life, is a <a href="https://en.wikipedia.org/wiki/Cellular_automaton" rel="noreferrer noopener" target="_blank">cellular automaton</a> devised by the British mathematician <a href="https://en.wikipedia.org/wiki/John_Horton_Conway" rel="noreferrer noopener" target="_blank">John Horton Conway</a> in 1970. It is a zero-player game, which means, that it requires no further input upon having been initialized to a certain state at the start. The idea is that we have a grid of cells, which can either be dead or alive. We set some of the cells to be alive and the other cells to be dead. After that we start the game/simulation and watch the cells create new patterns. You can read more about cellular automatons on <a data-id="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" data-type="URL" href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" rel="noreferrer noopener" target="_blank">Wikipedia</a>.

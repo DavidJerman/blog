@@ -2,7 +2,7 @@
 category: travel
 title: "Things to remember when travelling to Japan"
 date: 2024-02-17
-image: ../media/013d47_cover_2-min-scaled.jpg
+image: /blog/media/013d47_cover_2-min-scaled.jpg
 ---
 
 Japan is a faraway, mysterious country. And when travelling to Japan, determining what to take with you on your trip poses a big challenge. What clothes to bring, how to buy the JRPass, how the public transport works, what the customs are and much more. In this post, I will list the most important challenges I have faced - everything from buying the JRPass to simple everyday mistakes that could have been avoided.

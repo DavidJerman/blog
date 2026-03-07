@@ -2,7 +2,7 @@
 category: travel
 title: "A trip to Austria"
 date: 2021-09-23
-image: ../media/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg
+image: /blog/media/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg
 ---
 
 Today I am writing about my long planned trip to Austria. And for those who do not know much of this Germanic country, here are some facts about this beautiful country.

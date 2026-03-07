@@ -2,7 +2,7 @@
 category: travel
 title: "[Japan - Hachi] Cruising at 320 km/h"
 date: 2024-09-19
-image: ../media/35d387_PXL_20240914_061548489-1-scaled.jpg
+image: /blog/media/35d387_PXL_20240914_061548489-1-scaled.jpg
 ---
 
 The time has come again for me to use the Japanese HSR (high-speed rail) network, also commonly known as Shinkansen (bullet train). My first destination on these super fast trains is Fukushima - the place mostly known for its nuclear disaster in 2011, when the Fukushima reactor melted as a result of one of the strongest earthquakes in the history of Japan.

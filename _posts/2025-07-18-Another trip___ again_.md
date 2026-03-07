@@ -2,7 +2,7 @@
 category: travel
 title: "Another trip... again?"
 date: 2025-07-18
-image: ../media/76cbe5_PXL_20240905_093241132-1-scaled.jpg
+image: /blog/media/76cbe5_PXL_20240905_093241132-1-scaled.jpg
 ---
 
 For a couple of months, I thought I was going to China this September. This was, in fact, the plan that my friends and I came up with. We had the basic itinerary laid out and were pretty close to buying a plane ticket. This trip to China was going to be something new and exciting. I was looking forward to trying all the different foods I have seen online, going to the top of Shanghai Tower (the 3rd tallest building in the world), chatting with the locals, visiting a wife market (yes, this is a thing in China), and so much more. Tons of things to explore and discover...

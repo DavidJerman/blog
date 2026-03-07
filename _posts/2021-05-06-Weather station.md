@@ -1,7 +1,8 @@
 ---
+category: tech
 title: "Weather station"
 date: 2021-05-06
-image: ../media/d7223f_1620326443176.jpg
+image: /blog/media/d7223f_1620326443176.jpg
 ---
 
 Here I will describe my weather station project, which can be accessed on this <a data-type="URL" href="http://weather.davidblog.si/" rel="noreferrer noopener" target="_blank"><s>weather.davidblog.si</s></a> [the weather station is not operational anymore]. The GitHub project can be accessed on this <a data-id="https://github.com/DavidJerman/WeatherStation" data-type="URL" href="https://github.com/DavidJerman/WeatherStation">URL</a>.

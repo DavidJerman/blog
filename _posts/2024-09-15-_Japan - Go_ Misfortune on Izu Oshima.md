@@ -6,7 +6,7 @@ image: ../media/baa592_PXL_20240911_024945158-scaled.jpg
 
 It was time to head back to Tokyo. It was our third day on Izu Oshima but we were planning to head back to** **Tokyo by lunch. We woke up around 9, got ready by 10 and then headed towards the terminal. We intended to spend an hour or two inside the main building since it was cooled by AC, to avoid the heat of the day. After a while it was time for lunch - and the lunch was great! We ordered a tenpura set which came with many side dishes, rice and a miso soup. The tenpura (which is basically a light fry) consisted of fried vegetables and two big shrimps. The side dishes on the other hand consisted of: Japanese pickled cucumbers, shredded radish, cooked vegetables and tofu, a weird salad (I think it was made out of sea grass) and a dip for the tenpura.
 
-![Image](/media/b08561_PXL_20240911_024945158-1024x576.jpg)
+![Image](/blog/media/b08561_PXL_20240911_024945158-1024x576.jpg)
 
 *The tenpura lunch set*
 
@@ -24,12 +24,12 @@ With full stomaches we headed back towards the port. It was only an hour until d
 
 And the one hour and a half walk under the sun in 32 degrees and the humidity of a sauna began. I even recorded a video expressing my anger and acceptance. Luckily though, everything after this turned out pretty well. Halfway through we were stopped by a mother with a child who asked us where we were going. After telling her we were heading to Motomachi port, she kindly offered us a ride in her small car. I could not refuse such a generous offer, for I did not wish to spend another half an hour under the scorching sun. We even joked beforehand, that if such an event occurred, we would reward the driver. The next good thing was the fact, that our tickets got refunded and we were offered the next boat ride available, which was only a bit more expensive and much faster. And so after a very long morning, we were back in Tokyo.
 
-![Image](/media/ed4712_PXL_20240911_061400187-1024x576.jpg)
+![Image](/blog/media/ed4712_PXL_20240911_061400187-1024x576.jpg)
 
 *Finally on the boat to Tokyo*
 
 However, it was already evening. My friend was already sleepy. I on the other hand I was still fully awake and in search of another adventure. First we did the laundry, bought and ate some food and then returned back to the capsule hotel. After that, I sought a bar, an izakaya or something similar where I could get a drink and a snack and chat for a little bit. And I did find such a place. But again, like usually, nobody spoke a speck of English. Time to test my Japanese skills I thought. And I surprised even myself. After an hour and a half I was still talking about Slovenia, my favourite music and anime. I shared my varied music taste which ranges from classical music, to J-pop, rock and so much more. The listener found it pretty funny that I liked classical music. And thus I was asked if I really like this genre by having to listen to a bunch of Beethoven and Mozart’s art pieces. I mean I do like this kind of music (though I listen more to movie music), but maybe this isn’t what I was expecting to hear in a bar. I was having a lot of fun, but around midnight I realised it was getting pretty late. I payed and headed back home to get some rest. The following day we were going to go to Nikko and we needed to wake up pretty early.
 
-![Image](/media/b43c6f_PXL_20240911_155057031-1024x576.jpg)
+![Image](/blog/media/b43c6f_PXL_20240911_155057031-1024x576.jpg)
 
 *Roads at night*

@@ -12,16 +12,16 @@ Not long after we arrived in Sibiu - a medieval town with a rich history and man
 
 The city was vibrant, full of people and the architecture had a similar feeling. When you take into account its Germanic origins, this of course makes sense. I have been to Germany, Switzerland and Austria before and I got a similar vibe while visiting the towns scattered across these countries. We explored the old city center, bought some souvenirs, some ice-cream and finished our morning drinks.The town center also had a town fair with various food, drink and souvenir stalls and much more. We chilled in the city center for a bit and later headed back to our car.
 
-![Image](/media/f3fef1_Imagepipe_8.jpg)
+![Image](/blog/media/f3fef1_Imagepipe_8.jpg)
 
-![Image](/media/cfc615_Imagepipe_9.jpg)
+![Image](/blog/media/cfc615_Imagepipe_9.jpg)
 
-![Image](/media/5f1825_Imagepipe_10.jpg)
+![Image](/blog/media/5f1825_Imagepipe_10.jpg)
 
 The road after Sibiu was a breath of fresh air - a valley with a river, surrounded by green lush forests. The hills partially reminded me of my own country, but on certain parts a bit more rocky and steep. The river valley was scattered with ancient artefacts seemingly left there by long lost civilisations, though my friends inform me, that the railway system is quite a modern development. The river flowing through the valley gave the place a serene feeling. And while I was enjoying the views, my friend was having a mental breakdown trying to deal with local Romanian drivers.
 
-![Image](/media/68eb35_Imagepipe_12.jpg)
+![Image](/blog/media/68eb35_Imagepipe_12.jpg)
 
-![Image](/media/94cb5f_Imagepipe_11.jpg)
+![Image](/blog/media/94cb5f_Imagepipe_11.jpg)
 
 We arrived in Bucharest late in the evening. The evening was spent going to a restaurant, getting some food and drinks and later going to a bar and enjoying the Bucharest atmosphere. The city had a similar vibe to the bigger cities of Europe that I have been to (thinking about Paris for example). Just one difference - the drivers were even worse here! Driving here was a nightmare. It was like the road was full of raging bulls - everyone accelerating like crazy and changing lanes without any turn signals. Add to that the fact that the drivers were often aggressive and forced you to yield even though you had the right of way - a crazy driving experience! And that is more or less it for today.

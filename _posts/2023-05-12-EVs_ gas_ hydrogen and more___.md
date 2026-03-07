@@ -32,7 +32,7 @@ When it comes to emissions, there have been many debates held on this topic. But
 
 Bet let us not talk too much and let's look at actual data, and crunch some numbers. A study by the Eindhoven University of Technology from 2020 compared the lifetime greenhouse gas emissions of EVs with those of gas cars.
 
-![Image](/media/2f1096_image.png)
+![Image](/blog/media/2f1096_image.png)
 
 *Lifetime emissions of two similar cars over their lifetime (EV vs gas),Eindhoven University of Technology*
 
@@ -40,7 +40,7 @@ As we can see from the table above, it is estimated that a similar EV will emit 
 
 Another study by <a href="https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions/executive-summary">IEA</a> analyzed The Role of Critical Minerals in Clear Energy Transition and compared EVs to ICEs. The study suggests that once again EVs emit far less CO2 emissions even with current sources of electricity, in addition, the emission could be reduced by another 25% with low-carbon electricity (solar, wind, nuclear...).
 
-![Image](/media/8ff4de_comparative-life-cycle-greenhouse-gas-emissions-of-a-mid-size-bev-and-ice-vehicle-1.png)
+![Image](/blog/media/8ff4de_comparative-life-cycle-greenhouse-gas-emissions-of-a-mid-size-bev-and-ice-vehicle-1.png)
 
 *IEA, Comparative life-cycle greenhouse gas emissions of a mid-size BEV and ICE vehicle, IEA, Paris https://www.iea.org/data-and-statistics/charts/comparative-life-cycle-greenhouse-gas-emissions-of-a-mid-size-bev-and-ice-vehicle, IEA. Licence: CC BY 4.0*
 
@@ -126,7 +126,7 @@ We also have to talk about the total cost of ownership, which is lower when it c
 
 This likely is one of the factors that people might see as the weak points of EVs, although it probably isn't as big of a problem as people make it to be.<a href="https://blinkcharging.com/fact-from-fiction-the-real-reason-why-consumers-dont-buy-electric-vehicles/?locale=en"> Most people</a> still fear their EVs will run out of range or that they will not be able to find a charging station. Here are some top reasons why people don't want to buy an EV:
 
-![Image](/media/153166_image.png)
+![Image](/blog/media/153166_image.png)
 
 As you can see most people's range anxiety usually goes away after getting the EV. This fear however is understandable, since the technology is new, the way a car charges is different and if your car runs out of electricity you cannot just simply fill it up. So, let's look at some numbers!
 

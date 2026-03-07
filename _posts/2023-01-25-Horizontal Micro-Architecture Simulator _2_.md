@@ -10,7 +10,7 @@ This is just an update to tell the state of the development. As of writing, a la
 
 While reviewing the code and putting all the components together, I figured out that some parts of the components weren't designed ideally. The main thing was that I did, was to make the components as similarly as possible to how they would work in an actual micro-architecture. For example, instead of creating multiple interfaces for *ALU* for different operations, I just created a method which sets the operation in the first sub-cycle of a simulation cycle. This way, an instruction can easily be converted to an action. I did the same with the shifter, the memory and all the other components. As per the HO diagram, we can see that in the first cycle all the instruction variables are read and transferred to the components, which tells them how to behave in this cycle. The registers class was also fixed among many other things - mostly in the spirit of consistent behavior across all components.
 
-![Image](/media/6cb21c_image-3.png)
+![Image](/blog/media/6cb21c_image-3.png)
 
 *HO Micro-architecture Diagram*
 
@@ -36,7 +36,7 @@ terminate called after throwing an instance of 'memory_bus_exception'
 
 And these are the instructions generated and returned by the parser:
 
-![Image](/media/6c2b45_image-4.png)
+![Image](/blog/media/6c2b45_image-4.png)
 
 ### Next week
 

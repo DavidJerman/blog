@@ -20,7 +20,7 @@ However, my afternoons were dedicated to a different endeavour - learning Japane
 
 Throughout the summer, my upcoming trip seldom occupied my thoughts. The days were consumed by work, leaving little room for anticipation. Then, quite suddenly, the day arrived when I found myself on a train to Vienna. Even at that moment, I couldn't shake the feeling that it was just another train journey. After all, I had been to Austria before.
 
-![Image](/media/5eb629_PXL_20230827_110256212-1024x771.jpg)
+![Image](/blog/media/5eb629_PXL_20230827_110256212-1024x771.jpg)
 
 *Schönbrunn Palace - probably the most famous thing about Vienna*
 
@@ -36,7 +36,7 @@ And then suddenly I was on the plane. Flying is one of my favourite experiences 
 
 And so we took off - and then suddenly a strange feeling began to develop as I looked out of the window. It was a feeling I had never felt before - a mix of excitement, curiosity, happiness and wonder. I was leaving my home, I was leaving my country, I was leaving Europe, I WAS ON MY WAY TO JAPAN! A rush of excitement and a wide smile on my face followed immediately. I grinned like crazy. The entire two-month build-up was released at this very moment. I was all alone with my bag on my way to a country far away where I would have no one to rely on. It was truly going to be a one-of-a-lifetime, life-changing experience.
 
-![Image](/media/803f9f_PXL_20230828_232429523-1024x576.jpg)
+![Image](/blog/media/803f9f_PXL_20230828_232429523-1024x576.jpg)
 
 *Boeing 787-9 Dreamliner - the plane that took me from Vienna to Taipei*
 
@@ -61,7 +61,7 @@ In response, I provided the most generic answer possible, feeling the need to cr
 
 <div class="wp-block-column">
 
-![Image](/media/26b1be_PXL_20230829_050932273.MP_.jpg)
+![Image](/blog/media/26b1be_PXL_20230829_050932273.MP_.jpg)
 
 </div>
 </div>
@@ -80,11 +80,11 @@ Thus, with a train ticket in hand, I hastened to catch my train—the famous Nar
 <div class="wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%">
 
-![Image](/media/7715e9_Series-E259-NE014_NEX-1024x683.jpg)
+![Image](/blog/media/7715e9_Series-E259-NE014_NEX-1024x683.jpg)
 
 *The Narita Express*
 
-![Image](/media/fc01f6_PXL_20230830_025118279-1024x771.jpg)
+![Image](/blog/media/fc01f6_PXL_20230830_025118279-1024x771.jpg)
 
 *A classic train station in Japan*
 
@@ -112,7 +112,7 @@ Following in the footsteps of Sakuta and Koga, I decided to embrace the same Eno
 
 The little trip to the aquarium made me very hungry! So I started looking for a nearby restaurant. What I had in mind was ramen or something along those lines. So I brought up Google Maps and like usually selected the nearby region, set the filter to Open now and Top rated and a local restaurant popped up. It was called ひで吉食堂　 (Hideyoshi Dining Hall). I decided to follow my instinct and ask for a recommendation by saying おすすめはなんですか. And well, was the food a surprise! I got a bowl of... wait, this looks, interesting. It looked like a bowl of worms, very unappetizing. But the looks certainly deceived! It was a rice bowl covered with little fish - a local speciality and the fish were captured daily. The fish are called *Shirasu*, which is a Japanese term used for small white fish. Along with that, I was served a miso soup (that also included those little fish). Tofu and nori (dried algae) were almost always added to the miso soup. There were also some side dishes - a cup of black-coloured algae and Japanese pickled cucumbers. The latter tasted much different than the ones I eat at home or the American ones. They had an almost weird taste that I became accustomed to over time. The rice bowl also had an egg on top of it. I have to admit, the main dish did not look appetizing at all and I had a hard time getting started with it. First I poked the egg and let it cover the rice and then I dug in. The dish surprised me with its distinct flavour, one that I had not tried before. Though I am not a big fan of seafood, the dish was exceptional. The egg added an excellent taste to the dish and complemented the meaty taste of the fish. The miso soup was also great and the side dishes added a bit of saltines to the rice. It was a 9/10 dish for me since I am not a huge fan of seafood - but I love to try new food even if I don't like it. You only live once is my motto and thus I have to try something new every time.
 
-![Image](/media/d14c6a_PXL_20230830_060323450.jpg)
+![Image](/blog/media/d14c6a_PXL_20230830_060323450.jpg)
 
 ---
 
@@ -126,23 +126,23 @@ And thus I boarded the Enoden line train from Enoshima to Shichirigahama station
 
 Here are just some of the places from the anime, that I managed to find. Sadly it was already nighttime when I arrived at Shichirigahama. However, it felt sort of surreal, to be in the same spot where all this stuff that I have read about has happened, even though it was just fictional.
 
-![Image](/media/3a0356_enoshimaTokyoView.jpg)
+![Image](/blog/media/3a0356_enoshimaTokyoView.jpg)
 
 *The view of Tokyo from Enoshima*
 
-![Image](/media/cb9cf4_shichirigahamaBeach1.jpg)
+![Image](/blog/media/cb9cf4_shichirigahamaBeach1.jpg)
 
 *The Shichirigahama beach*
 
-![Image](/media/4acbe9_enoshimaIslandView.jpg)
+![Image](/blog/media/4acbe9_enoshimaIslandView.jpg)
 
 *The view of Enoshima from Shichirigahama beach*
 
-![Image](/media/2caf95_enoshimaIslandTemple.jpg)
+![Image](/blog/media/2caf95_enoshimaIslandTemple.jpg)
 
 *The main temple on Enoshima**
 
-![Image](/media/738e71_enoshimatoriGate.jpg)
+![Image](/blog/media/738e71_enoshimatoriGate.jpg)
 
 *The great tori gate at the entrance of Enoshima*
 
@@ -154,7 +154,7 @@ Having a cold led me to explore my surroundings more than I would have expected.
 
 The fairly common parks were one of my favourite places in Tokyo. There was also one near my residence so I decided to visit it to relieve myself a little bit having caught a cold. I got myself lunch and some sweets and headed for the park. On my way, I passed a garbage collection company and learned, that in Tokyo the garbage was not recycled, but rather burned. "Well, this really is not good for the environment", I thought to myself. This was yet another of those contrasts - the country is super clean and yet is the third biggest producer of plastic waste in the world. Having passed the garbage collection company, I soon arrived at the park. I took notice of the information board which stated that the park was closed during the night. I then continued to the center of the park passing many elderly who enjoyed their time in the park. I sat on a little bench and made a call home to say hello to my family. 
 
-![Image](/media/05948a_PXL_20230831_015034909.jpg)
+![Image](/blog/media/05948a_PXL_20230831_015034909.jpg)
 
 ---
 
@@ -162,19 +162,19 @@ The fairly common parks were one of my favourite places in Tokyo. There was also
 
 Having thoroughly explored my neighbourhood and my health being in a much better condition, I decided to venture to another part of Tokyo - Akihabara. It's one of those parts of the city that one just cannot ignore. It's the centre of pop culture, anime, manga, maid cafes, and technology. Filled with hundreds of different shops almost anyone can find something for themselves - be it a unique experience in a maid cafe, a shop filled with DIY materials, bookshops, vending machines, prize games and so much more! My adventure in Akihabara began in probably the largest anime-related store that I have ever been to. Anything else pales in comparison to the variety of products offered here. 7 stories of everything an anime fan would desire. I had to keep a close watch on my wallet to not overspend here, but I did not leave empty-handed. I bought two art books and some other merchandise that piqued my interest. 
 
-![Image](/media/faefc4_PXL_20230831_061942945.jpg)
+![Image](/blog/media/faefc4_PXL_20230831_061942945.jpg)
 
 *Gacha machines everywhere!*
 
-![Image](/media/dd9966_PXL_20230831_044203622.jpg)
+![Image](/blog/media/dd9966_PXL_20230831_044203622.jpg)
 
 *Hundreds of collectible figurines*
 
-![Image](/media/8efaa6_PXL_20230831_074828093.jpg)
+![Image](/blog/media/8efaa6_PXL_20230831_074828093.jpg)
 
 *The famous SEGA board on the left*
 
-![Image](/media/a30038_PXL_20230831_060642473.jpg)
+![Image](/blog/media/a30038_PXL_20230831_060642473.jpg)
 
 *Game and anime advertisements everywhere*
 
@@ -184,7 +184,7 @@ After that, I was seated by one of the maids who introduced herself as Teddy. Tu
 
 After that, we had a little chatter about things like where I came from, what my name was and much more. I enjoyed my drink while waiting for the main course to arrive. And I did not have to wait for very long. The omurice arrived soon. And yet again it was time for a ma magical spell. But before that, I got to choose what animal would be drawn on my omurice with the tube of ketchup by another one of the maids. Being a simple man, I chose a cat, since it is my favourite animal after all. And the maid went to work. Starting with the ears she traced the shape of two triangles and then the shape of the face. Following that the the eyes and a smiling mouth were added. After that, a bunch of hearts were on the side and the dish was complete. And for the final part, a magical chant that made the food taste even better! Unfortunately for me, I failed my part of the chant every single time haha. I dug in. The omurice tasted pretty good but it palled in comparison to other food that I ate in Japan. This held true for most of the themed cafes that I went to. You went there for the experience and not the food. Still, I was very much enjoying the experience of a maid cafe - a place where one could forget about the worries of the everyday. Having finished the meal I was approached by one of the maids. Since my Japanese was not top-notch, the maid used a translator app to ask me a question: whether I wanted to pay extra for a live performance. I did not hold back and immediately accepted the offer. A minute later Teddy came back with a list of songs that she could sing. There were many, most of which I did not know at all. Except for one, my favourite song at that time: <a href="https://www.youtube.com/watch?v=ZRtdQ81jPUQ">アイドル (Idol) by YOASOBI</a>. It was also the opening song of my favourite animes. The song was really popular both in Japan and outside Japan raking up an astonishing amount of views on YouTube (365M views at the time of writing). To get a better view of the performance I was seated near the stage and soon after that received a dessert. Along with that, I received a penlight that I would use to cheer the singer on. I was also offered to participate in a gacha game. And guess what, I said yes to that as well - it was not a smart financial decision, but I decided to go full-in since I was here. The maid brought a big box full of different prize tickets. I extended my hand to grab a random ticket and the maid played one of those gacha sounds that you hear when do a pull on a gacha machine. The anticipation was big, the stakes were high and the reward I received was... A pair of animal ears! Cat ones! What a coincidence! I was happy with the reward and felt the gacha was on my side this time around. 
 
-![Image](/media/59473b_PXL_20230831_064041359.jpg)
+![Image](/blog/media/59473b_PXL_20230831_064041359.jpg)
 
 The omurice also had a picture of a cat and a bunch of hearts drawn on it with the ketchup by one of the maids. The dich certainly looks very basic, but the magical spell cast by the maid made it taste ten times better! In the background, you can also see the envelope that I received, which would contain the photo that I was going to take at the end. On the right, there was also a jar filled with little papers that basically counted as a tip - something that you do not see anywhere else in Japan since tipping culture is not a thing here. I, unfortunately, do not have many photos of this place due to their policy of not taking pictures of the maids. So as an alternative, I will link the place that I went to here and you are welcome to check it out: <a href="https://www.google.com/maps/place/Heaven's+Gate/@35.6980096,139.7707038,17z/data=!3m1!5s0x60188c1d51796be7:0x3e339713383c6ef7!4m8!3m7!1s0x60188c1d5176cd1f:0x62ff60d5d8b654fd!8m2!3d35.6980094!4d139.7724164!9m1!1b1!16s%2Fg%2F1vjdq14_?entry=ttu">Heaven's Gate</a>.
 
@@ -202,11 +202,11 @@ This was yet a day when was going to rest. I still had a cold, but it was gettin
 
 The classroom was very small and full of cheerful children! It felt like I just entered a school classroom. There was a big zataku table* and a light-coloured wooden floor. The children were mostly quiet, saying a word here and there. When they finished their task they visited the teacher, who graded their assignments. If they did well they got a chance to play a little gacha and receive a reward - a piece of candy! On the wall right next to the door, there was a big piece of paper with all sorts of kanji - presumably drawn by the students. I was given a blanket and a small table separate from the other students. I sat right in front of the teacher so that she could supervise my work. She seemed to be very busy all the time, dealing with children and their parents who came to pick them up. I figured, that most children participated in these lessons to foster creativity and discipline. I too was about to have my patience and calligraphy skills tested. While it was my first time doing this, it was not my first time doing some kind of art. I used to be great at drawing when I was younger - but the passion for drawing slowly faded away as the years went on and got replaced with a desire to learn everything and anything about the world: it is why I love science, travelling, reading and learning about new cultures. And I think I did pretty well. The two kanji that I chose to draw were water 水・みず and cat 猫・ねこ. The first one was relatively simple since it required only four strokes - or so I thought. When the teacher drew a sample (with the orange colour), the paintbrush travelled really smoothly and the beautiful shape of a kanji was drawn. It was done swiftly with elegance and ease. Confidently, I thought I could do the same. Oh, how wrong I was. I could of course not do it with the same elegance or the speed. But the end result was - at least visually - pretty good to me. However, I encourage the reader, who might be skilled in calligraphy, to rate my attempt at this unique art. The cat kanji was a bit more complicated but as a result of that, I was a lot more satisfied at the end. I did not give up and kept drawing (though I do wonder, if I should call this drawing or writing - something in-between, it's an art after all). 2 hours passed like nothing and the class was about to close soon. So I packed my stuff and decided to head home.
 
-![Image](/media/114ae9_PXL_20230901_095302317.jpg)
+![Image](/blog/media/114ae9_PXL_20230901_095302317.jpg)
 
 *The water kanji (right)*
 
-![Image](/media/e70c46_PXL_20230901_095510452.jpg)
+![Image](/blog/media/e70c46_PXL_20230901_095510452.jpg)
 
 *The cat kanji (right)*
 
@@ -224,11 +224,11 @@ Now, as for the second type of service, I will avoid writing about it in detail,
 
 <div class="wp-block-group">
 
-![Image](/media/ed7a8b_PXL_20230904_102014986-min-771x1024.jpg)
+![Image](/blog/media/ed7a8b_PXL_20230904_102014986-min-771x1024.jpg)
 
 *The bright signs everwhere*
 
-![Image](/media/19ae13_PXL_20230904_102233611.MP-min-1024x771.jpg)
+![Image](/blog/media/19ae13_PXL_20230904_102233611.MP-min-1024x771.jpg)
 
 *Evening streets of Kabukicho*
 
@@ -240,11 +240,11 @@ My trip did not go without a problem though. After a couple of days in Tokyo, I 
 
 First of all, I checked Google Maps for any alternatives when it came to public transport. And low and behold, there indeed was a highway bus to Ishinomaki and a bus station very close to me. I took the opportunity and immediately rushed towards the bus station. It was around 5 PM and there was a bus about every 30 minutes. I just had to wait for 20 minutes and I would be on my way to Ishinomaki. Or so I thought. The bus did indeed come. But it was full, like, completely. Every single seat, including the middle of the bus, was completely occupied. The bus driver just told us to wait for another bus. And so we did. 30 minutes, and the story repeated itself. The only solution, I thought, would be to head to the main bus station and board the bus there, since at least there would be a line of passengers and I would get a seat eventually. I arrived at the main bus station, and there was probably a 60-meter line. This can't be the line for my bus I thought, so I asked one of the people in the line if they were waiting for the same bus. Sadly, they replied with a yes. And thus I decided to wait. One bus, two buses, and the line was still at least half as long. At that point, I gave up, since it was almost 8 PM. There was even a TV news station interviewing people in the line. I thought I might end up on camera once again, but alas I did not. I decided to give up on Ishinomaki.
 
-![Image](/media/6d38c5_PXL_20230906_055347661-min-min-1024x805.jpg)
+![Image](/blog/media/6d38c5_PXL_20230906_055347661-min-min-1024x805.jpg)
 
 *Entrance of the Sendai Castle*
 
-![Image](/media/2b5b17_PXL_20230906_103107969.MP-min-771x1024.jpg)
+![Image](/blog/media/2b5b17_PXL_20230906_103107969.MP-min-771x1024.jpg)
 
 *The long line for the bus to Ishinomaki*
 
@@ -254,15 +254,15 @@ This was my first time at a capsule hotel. It was one of the things on my bucket
 
 It seemed that the establishment mostly hosted Japanese. This of course made sense, since the establishment was not listed anywhere except on Google Maps. I was actually quite glad this was the case because I got to at least partially experience what the life of Japanese people was like. When I arrived on my floor I entered a small hall with a long table on the side. There were also a couple of chairs, a TV that was playing Japanese wrestling - something I intended to see myself as a live performance at first, and a very big bookcase filled with various manga. The titles included but were not limited to Demon Slayer, My Dress-up Darling, Seraph of the End, and Oshi no Ko... It was a shared place meant for hanging out, reading manga or just doing your thing on the phone. The room was also connected to a small room filled with sinks and toiletries. And not to forget, like usual, there were different vending machines: one for alcohol, one for other drinks, and another one for cup noodles. So even if you forgot to grab a snack before coming here, you had something to eat. The food and drinks also weren't that expensive,  though the prices seemed to be a bit higher than usual. In the common room, everyone was quiet, nobody was talking loudly on their phone or chatting so loud everyone could hear them. I really appreciated such an atmosphere so that I could wind down after a long day of waiting for a bus that never really arrived... After taking in the atmosphere I entered the sleeping dorm. And wow. I was amazed by it! It felt so much different than your average hostel. The room was dimmed from the get-go - there were no bright lights, no windows, or anything like that. Anyone could go to sleep at any hour they desired. The capsules were also very stylish, both from the outside and the inside. The capsules were ordered in two stories and the upper deck was shifted by half a capsule so that the stairs to them could be put in the middle of the bottom two capsules. The stairs were lit with a warm light that let you use them even at night. As for the capsules themselves, they had a futon instead of the usual bedding that we find in Western-style accommodations. This meant that the bed was not as soft, however, I still found the futon to be very comfortable. The back of the room was also fitted with a comfortable backrest. But the room tour does not end here. The room was also outfitted with a TV, a table, and a reading light. The capsule's entrance could be sealed with a sliding screen that prevented other people from seeing inside. The curtain also provided some protection against noise. There was merely one thing that I would have changed. The backlight behind the backrest was only dimmable and could not be turned off. While I personally did not mind the dimmed light that shone from the wall and could easily fall asleep, I can imagine that some other people would mind it. Now, I guess there was probably some way to turn it off, but the only thing I could find was the dimming wheel, which I used to dim the light.
 
-![Image](/media/5be7f5_PXL_20230906_113356419.jpg)
+![Image](/blog/media/5be7f5_PXL_20230906_113356419.jpg)
 
 *The inside of the capsule*
 
-![Image](/media/f24b41_PXL_20230906_132804417.jpg)
+![Image](/blog/media/f24b41_PXL_20230906_132804417.jpg)
 
 *The manga bookshelf*
 
-![Image](/media/a05f4a_PXL_20230906_113400670.jpg)
+![Image](/blog/media/a05f4a_PXL_20230906_113400670.jpg)
 
 *The sleeping room*
 
@@ -272,15 +272,15 @@ The room was lit with a smaller light and black tiles. Immediately on the left, 
 
 The onsen experience did not end there. After soaking myself in the healing water, I headed back to the changing room, dried myself, and put on my hotel clothes. This was yet another interesting thing that I observed about Japan: every single hotel, ryokan, or the sleeper train that I went to always provided hotel clothes. Most of the time it was a *yukata*, but sometimes just a simple pyjama, like in the capsule hotel. I loved wearing the *yukata** since it was a piece of clothing that I never wore at home. It also felt pretty close to a *kimono*, a piece of clothing that I was looking forward to wearing. So, having put on the pyjamas, I headed back to the commonplace to read some manga. It was already 10:30 PM, so I wasn't going to stay up much longer. I picked up the first volume of Demon Slayer and a sweet drink from the vending machine and started reading. Or perhaps I should have said deciphering. The level of Japanese used in this medium was of course still above my level, but I managed to understand quite a lot and thus spent quite a lengthy time getting through a couple of pages. After that, it was time for sleep, so I headed to my capsule, covered myself with a blanket, and quickly fell asleep.
 
-![Image](/media/62f5e6_PXL_20230906_132810408.jpg)
+![Image](/blog/media/62f5e6_PXL_20230906_132810408.jpg)
 
 *Oshi no Ko*
 
-![Image](/media/94b37a_PXL_20230906_131302414.jpg)
+![Image](/blog/media/94b37a_PXL_20230906_131302414.jpg)
 
 *Demon Slayer manga panel*
 
-![Image](/media/ec0f66_PXL_20230906_125745952.jpg)
+![Image](/blog/media/ec0f66_PXL_20230906_125745952.jpg)
 
 *Demon Slayer manga cover*
 
@@ -297,33 +297,33 @@ In front of it was a statue of a fox. As a matter of fact, there were fox statue
 
 A minute or so, and I was already in the forest. And there were Tori gates everywhere. The entire trail was covered with them. Small, wooden, concrete, red tori gates, so close together that they essentially formed a tunnel. And there was just no end to them. There were multiple paths and every single one of them had hundreds of Tori gates. There are around 10.000 tori gates in total, all leading to the top of Mt. Inari. Mt. Inari is also dotted with many stone altars all along the trail. And these altars are accompanied by fo statues almost all the time. The green nature combined with the unique Tori Gate trail makes for one of the best (sort of urban) hiking trails in Japan, The hike took me around 2 hours and along the way, I also saw a couple of souvenir and food shops. Surprisingly, the prices weren't really much higher than at other souvenir shops, even though the shop (elderly) owners had to bring all the supplies to the shops by hand. There was no road or anything similar leading to these shops - just a hiking trail. It was quiet and relaxing. The weather was also not that hot that day so I wasn't sweating like crazy. After reaching the top, I sat down for a bit, rehydrated myself and after some time headed back down the mountain.
 
-![Image](/media/3491ce_PXL_20230908_051755958-min-1024x771.jpg)
+![Image](/blog/media/3491ce_PXL_20230908_051755958-min-1024x771.jpg)
 
 *The main shrine in the background*
 
-![Image](/media/77952b_PXL_20230908_053633042-min-771x1024.jpg)
+![Image](/blog/media/77952b_PXL_20230908_053633042-min-771x1024.jpg)
 
 *The Tori Gates*
 
-![Image](/media/c378e6_PXL_20230908_062049271-min-771x1024.jpg)
+![Image](/blog/media/c378e6_PXL_20230908_062049271-min-771x1024.jpg)
 
 *Tori Gates on the trail to the top of the mountain*
 
-![Image](/media/4e8b66_PXL_20230908_054108192-min-min-1024x1024.jpg)
+![Image](/blog/media/4e8b66_PXL_20230908_054108192-min-min-1024x1024.jpg)
 
 *Fox statues on the stone altar*
 
 My legs were very tired at this point! I decided I needed some rest. And what better way to unwind after a long day than to head to a cat cafe, enjoy a couple of drinks, and play with the cats. I found a cat cafe near the train station where I got off the train. Following the hordes of people marching through the streets of Kyoto, I soon reached the entrance of the building where the cafe was supposed to be. I saw the sign and there was even a pet store at the entrance of the building. But it certainly did not look like the cafe I was looking for. The entrance to the cafe was hidden inside the building. Cafes, bars, and izakayas were often hidden like this and were not so easy to find. Inside the building, there was an elevator that took you to the cafe. And at the entrance of the cafe, there was a double door. First, you took off your shoes and the second door was for the cats so that they couldn't escape! So, I took off my shoes like usual, entered the room, and approached the reception. The receptionist/caretaker explained to me all the rules of a cat cafe. The rules were pretty obvious: not picking up the cats, not bothering them if they don't like it, how to feed them, etc. But I was glad that she explained them carefully to everyone because not every person has a good grasp of how to work with animals. I bought the package with some food and paid the starting fee. Every 10 minutes you spent at the cafe cost you about 1,5 EUR and you had both unlimited drinks and a bunch of cuddly, fluffy creatures to pet. I think it was a bargain, especially because these cats seemed to be very well cared for - their fur was soft and silky and they all looked healthy. My favourite cat was the orange cat with big eyes that stood on my lap while waiting for the food. I dubbed him Pepito for no real reason. When I visit Kyoto again, meeting Pepito again is inevitable. The cats were not very playful but most of them enjoyed being petted and eating the guests' cat food. The cafe also had a lot of manga and a Nintendo controller for those eager to try some made-in-Japan game titles. The cafe had a great atmosphere and a bunch of places to relax, so I spent more than an hour at this lovely place.
 
-![Image](/media/44a128_PXL_20230908_084453015-min-771x1024.jpg)
+![Image](/blog/media/44a128_PXL_20230908_084453015-min-771x1024.jpg)
 
 *Pepito*
 
-![Image](/media/82e16c_PXL_20230908_085237810-min-771x1024.jpg)
+![Image](/blog/media/82e16c_PXL_20230908_085237810-min-771x1024.jpg)
 
 *Fluffy!*
 
-![Image](/media/6e7063_PXL_20230908_091348986.MP-min-771x1024.jpg)
+![Image](/blog/media/6e7063_PXL_20230908_091348986.MP-min-771x1024.jpg)
 
 *So cute!*
 
@@ -331,15 +331,15 @@ After experiencing the lovely atmosphere of a cat cafe, I headed towards my hote
 
 For some reason, I just cannot find this same place on Google Maps. I did find the building and its exterior perfectly matches the place that I had been to that night - so it must be it. Well, basically, the place was really small - one could probably fit there 10 people at most. There was a bar counter on the outside of the building where many people gathered for a drink and some chatter. Inside the building though, there was a single grid composed of the takoyaki grill and the normal grill. The grill was surrounded by yet another counter where people, including me, could grab a byte and observe the chef making the food. There were only six chairs in total though. The owner of the place was an old Japanese man and his wife. It seemed they ran this place primarily to gather locals and other people together for a chat, a snack, and perhaps a couple of drinks. The prices and their hospitality certainly reflected that! I thought this was an excellent opportunity to try some Japanese street food, so I headed in and was immediately greeted by the owner with a smile on his face. It was obvious that he was enjoying his work! He seemed to be preparing an okonomiyaki with a skillet and some spices in his hands. His wife on the other hand was preparing the takoyaki using the chopsticks, skillfully flipping them to make them cook perfectly. The smell of onions and takoyaki made me eager to try a new dish! I sat on one of the chairs and greeted the other locals who seemed to be intrigued by the presence of a tourist. I sat down and started looking at the menu. The menu not being in English of course meant, I did not understand everything. The owner realizing my Japanese was not so sharp, handed me the English menu, which I appreciated very much. Even so, I was not sure what to order, so I asked for a recommendation. He pointed at some kind of an onion okonomiyaki dish. I thanked him and pondered about what to drink. Then suddenly on my right, a foreign couple had stumbled upon this same restaurant. They were a bit clueless at first, wondering whether they could enter the place, but were immediately invited by the owner in a cheerful voice, letting them know, they were welcome. They sat next to me and I greeted them with a simple "Hi!". After that, there was a moment of silence, as they were looking at the menu. I saw them using Google Translate to figure out the menu and offered the English menu to make things easier! After that, I ordered my food coupled with a non-alcoholic drink. Meanwhile, they were looking at the menu even more and then turned towards me. "Hey, I was wondering, what did you order? We honestly have no idea what to order.". I told them that I ordered the recommended item, but that I did not know this food so much myself to be able to make a recommendation - though I assured them that anything they ordered would probably be fine. They then ordered an okonomiyaki and a takoyaki. Good choice, I told them! We were complete strangers at this point so we introduced each other: they told me that they were both Italians and that this was their first trip to Japan and their itinerary seemed to match mine to a certain extent. We talked about many things: the best places to visit in Italy and Slovenia, food and our journeys in Japan, our lives and so much more. I was delighted by the conversation since I hadn't talked to anyone except the Japanese up until now. It honestly felt awesome to be able to share the challenges that I faced and the awesome moments I experienced in Japan up until now. The guy that I talked to spoke really good English, not so much his wife, so it was us who talked most of the time. We had a lot of fun while enjoying delicious food prepared by the chef. In the meantime, my food was being prepared right in front of me. First, the chef prepared some meat on the side, and after that made something resembling a pancake on the grill. This was the first ingredient of an okonomiyaki. As the pancake cooked, he added some kind of white crumbs on top of it. My friend and I weren't really sure what this was, so I inquired about it. Turns out, it was tempura batter. Atop of it, the chef added the previously prepared meat and... A LOT of onions. My friend and I looked at each other and commented on the situation: "Man, that is a lot of onions, haha. I guess if you like onions a lot, this is a great dish." I agreed with him but had faith in the chef's cooking skills.
 
-![Image](/media/0ead1f_PXL_20230908_122117289.jpg)
+![Image](/blog/media/0ead1f_PXL_20230908_122117289.jpg)
 
 *Okonomiyaki's base*
 
-![Image](/media/fea4c2_PXL_20230908_122438680.jpg)
+![Image](/blog/media/fea4c2_PXL_20230908_122438680.jpg)
 
 *So many onions!*
 
-![Image](/media/294d23_PXL_20230908_121958419.jpg)
+![Image](/blog/media/294d23_PXL_20230908_121958419.jpg)
 
 *The menu*
 
@@ -354,7 +354,7 @@ Hiroshima definitely left a big impact on my trip. It was a place where I was bo
 
 Just as Prometheus' gift brought both progress and peril, the preservation of the Atomic Bomb Dome urges us to tread carefully with the fire we now wield, understanding the profound impact it can have on the world we share.
 
-![Image](/media/1492d2_PXL_20230913_044523425-min-1024x576.jpg)
+![Image](/blog/media/1492d2_PXL_20230913_044523425-min-1024x576.jpg)
 
 *The building that withstood the power of a nuclear bomb*
 
@@ -362,13 +362,13 @@ You might be wondering, how on earth did this building survive the blast when ev
 
 After feeling all those emotions at the Atomic Bomb Dome, I needed some comfort food. I found a local spot and ordered a bowl of *tsukemen*, which is like ramen but without the soup. You dip the noodles and toppings in a separate broth using chopsticks. I went for a spiciness level of 3, marked by two chilli peppers. It was pretty spicy but just right for me. I might go even spicier next time on my summer trip to Japan. Digging into the dish, it didn't become my favourite. It was kinda basic and didn't have the usual Japanese flavours I love. Still, I'd recommend it, especially if you're in Hiroshima. Don't forget to try *okonomiyaki *too, but I'll talk about that later. What made the *tsukemen *interesting was the dipping part. The sauce was spicy with sesame seeds and oil, giving a nice kick to the otherwise simple ingredients. I'd rate it a 6/10. Looking forward to figuring out the spice levels on my next trip!
 
-![Image](/media/40a877_PXL_20230913_050922139-min-1024x576.jpg)
+![Image](/blog/media/40a877_PXL_20230913_050922139-min-1024x576.jpg)
 
 *Tsukumen*
 
 My stomach was full so I headed back to the Peace Memorial Park near the Atomic Bomb Dome. I decided to visit the Hiroshima Peace Memorial Museum, making an exception to generally not wanting to visit any museums. I was really interested in the history of the place and wanted to deepen my understanding of what happened at 8:15 on September 2, 1945. I headed towards a big modern building and tens of people in front of it. Most of them lined up to enter the museum. I followed them and entered the building myself. The museum guides directed the line of people to the ticket counter. After waiting for about five minutes it was my turn to buy the tickets. They were extremely cheap, costing just 200 JPY (that is a bit more than a euro). After that, I was offered an audio guide and given directions on where to continue my tour through the museum. The staff was very polite and everything was very well organized. The museum was very well thought out from the beginning to the end. And thus began the exhibition - one of the most impactful museum exhibitions that I have seen up to date. It presented everything about this tragedy, from how it happened, to all the horrible consequences that followed. How the bomb exploded and how everything in a radius of around 2.4 kilometers was razed to the ground. The museum presented in gruesome detail, how people lost their families, how people died from either the direct impact of the bomb or later from cancer or from their skin literally falling off. Up to 300.000 people suffered various gruesome deaths. The museum presented all sorts of personal items that were left behind by thousands of victims, as well as their stories, describing everything in detail. About children having lost their brothers and sisters, having them lost forever. I just walked around in silence and almost shed some tears. At the end of the exhibition, I entered the museum store and bought a book with the title 8:15, the time of the bomb being dropped. It is a very touching, sad book, and I would recommend it to anyone who would like to learn more about this infamous event through the eyes of a person who lived through this and survived it. Unfortunately, I did not take any pictures. To be frank, I really wasn't in the mood. I felt pretty gloomy after exiting the museum, but here is a picture of the museum from the outside.
 
-![Image](/media/bab51f_PXL_20230913_060531021-min-1024x576.jpg)
+![Image](/blog/media/bab51f_PXL_20230913_060531021-min-1024x576.jpg)
 
 *Hiroshima Peace Memorial Museum*
 
@@ -382,7 +382,7 @@ So, I was sitting on my bed and browsing my phone. I think I was probably scroll
 
 It didn't take us too long to find a small Izakaya restaurant. We entered the restaurant and asked for a table of four. The restaurant was very busy but we were offered seating if we waited for another 10 minutes. And so we waited. After that, we were escorted to our table and given the English menus to order some food. It was fairly late, so we were able to order food only twice (not that we could eat much more haha). We each ordered some drinks and all of us ordered *okonomiyaki*. Some of us with the udon and some of us with the soba noodles. I ordered the soba noodle one, coupled with some veggies and an octopus. It tasted really good - the best part of it for me was the spices and sauce used to make it. If I had to guess the *okonomiyaki *sauce was made of sugar, ketchup, oyster sauce, and probably some other ingredients. Exquisite!
 
-![Image](/media/9705ba_PXL_20230913_115125033-min-1024x771.jpg)
+![Image](/blog/media/9705ba_PXL_20230913_115125033-min-1024x771.jpg)
 
 *Okonomiyaki*
 
@@ -392,7 +392,7 @@ My review of <a href="https://maps.app.goo.gl/diP4dFuZvpzxTfCr5">Ken's Bar</a>: 
 
 The evening experience was great: we talked a lot, listened to some great music, and had a lot of fun. I decided to just stick with non-alcoholic drinks that evening, so I just ordered a Red Bull. The drinks were pretty cheap compared to other places: 500 JPY per drink, and it did not matter what you ordered. At some point, the people at the bar counter and the two barmen (one of them was the energetic Japanese/English-speaking guy Ken and the other was a Japanese woman, who also did not lack any energy) started discussing the fact that I was from Slovenia. Judging by their conversation, they were probably wondering what country this is and I don't blame them - Slovenia is a very small country, a hidden gem of Europe as many people call it. And after discussing it a bunch, familiar sounds started playing on the TV - it was Slovene music. Intrigued by the music the barman approached me and asked me about the song. Not being too familiar with the music in my country I just assured him that this was the music that I am familiar with. It was not the classic folk music, which I would have preferred, but some pop music. In any case, I was glad they took an interest in my culture as much as I did in their culture. And after that came the main event of that day: my American buddy decided to order a cocktail of some sort. Since he had no preference, he just asked for a recommendation. A couple of minutes later, the barman came back with the drink. The drink's name was the B-52 Bomber. A very fitting name considering the city we were in, we thought, with a smile on our face. The barman explained what the drink and the plane were all about and then lit a fire on top of the drink. The drink then had to be consumed quickly before the fire went out. It looked really cool! A burning fire - just like a bomb... Yeah, seems like the Japanese still have a sense of humour, even though they are not famous for it. The evening ended with a trip to the convenience store, some more drinks and some snacks, and after all of that my buddy both headed to our hostel. After that, it was time to wish each other a good night at midnight.
 
-![Image](/media/ed75a8_PXL_20230913_123919144-min-1024x771.jpg)
+![Image](/blog/media/ed75a8_PXL_20230913_123919144-min-1024x771.jpg)
 
 *Ken's Bar*
 
@@ -429,86 +429,86 @@ Due to time constraints and the lack of willingness to write about literally eve
 
 So, below I am attaching some more photos from my journey. I hope you find them amusing.
 
-![Image](/media/b5466e_PXL_20230915_070000086.MP-min-1024x771.jpg)
+![Image](/blog/media/b5466e_PXL_20230915_070000086.MP-min-1024x771.jpg)
 
 *One of the rabbits from the Rabbit Island (Okunoshima)*
 
-![Image](/media/da287d_PXL_20230915_054242877-min-1024x771.jpg)
+![Image](/blog/media/da287d_PXL_20230915_054242877-min-1024x771.jpg)
 
 *Yet another rabbit*
 
-![Image](/media/278940_PXL_20230907_074407066.MP-min-min-1024x768.jpg)
+![Image](/blog/media/278940_PXL_20230907_074407066.MP-min-min-1024x768.jpg)
 
 *One of the islands in the Matsushima bay*
 
-![Image](/media/fbfcb1_PXL_20230909_060200493.MP-min-min-1024x819.jpg)
+![Image](/blog/media/fbfcb1_PXL_20230909_060200493.MP-min-min-1024x819.jpg)
 
 *A deer has appeared in Nara!*
 
-![Image](/media/abced4_PXL_20230914_033442086-min-1024x576.jpg)
+![Image](/blog/media/abced4_PXL_20230914_033442086-min-1024x576.jpg)
 
 *The famous Miyajima Tori gate*
 
-![Image](/media/413ae3_PXL_20230912_023740946-min-1024x771.jpg)
+![Image](/blog/media/413ae3_PXL_20230912_023740946-min-1024x771.jpg)
 
 *The view of Kobe from the cable-car*
 
-![Image](/media/88dc9d_PXL_20230911_050845537-min-1024x576.jpg)
+![Image](/blog/media/88dc9d_PXL_20230911_050845537-min-1024x576.jpg)
 
 *The view of Osaka from the skyscraper*
 
-![Image](/media/ac7530_PXL_20230909_081522469-min-1024x576.jpg)
+![Image](/blog/media/ac7530_PXL_20230909_081522469-min-1024x576.jpg)
 
 *A beautiful little island at the Nara Park lake*
 
-![Image](/media/dea44d_PXL_20230909_040703600-min-1024x771.jpg)
+![Image](/blog/media/dea44d_PXL_20230909_040703600-min-1024x771.jpg)
 
 *The (sinful) ramen, one of the best I have tried, sinful because of the cheese*
 
-![Image](/media/f61e75_PXL_20230909_030141312-min-1024x771.jpg)
+![Image](/blog/media/f61e75_PXL_20230909_030141312-min-1024x771.jpg)
 
 *There are about 1400 deer in Nara*
 
-![Image](/media/dcb375_PXL_20230907_042002071-min-1024x771.jpg)
+![Image](/blog/media/dcb375_PXL_20230907_042002071-min-1024x771.jpg)
 
 *One of the best lunches I have had, in Matsushima*
 
-![Image](/media/196ed2_PXL_20230904_100058641-min-1024x771.jpg)
+![Image](/blog/media/196ed2_PXL_20230904_100058641-min-1024x771.jpg)
 
 *The night city in Shinjuku*
 
-![Image](/media/41ac9c_PXL_20230922_054119470-min-771x1024.jpg)
+![Image](/blog/media/41ac9c_PXL_20230922_054119470-min-771x1024.jpg)
 
 *Another cat cafe*
 
-![Image](/media/552f81_PXL_20230904_043008626.MP-min-771x1024.jpg)
+![Image](/blog/media/552f81_PXL_20230904_043008626.MP-min-771x1024.jpg)
 
 *Tokyo tower*
 
-![Image](/media/f8b064_PXL_20230902_012206570-min-1024x771.jpg)
+![Image](/blog/media/f8b064_PXL_20230902_012206570-min-1024x771.jpg)
 
 *The main temple in Nagano*
 
-![Image](/media/838785_PXL_20230830_040600367.MP-min-771x1024.jpg)
+![Image](/blog/media/838785_PXL_20230830_040600367.MP-min-771x1024.jpg)
 
 *A funny fish in the Enoshima aquarium*
 
-![Image](/media/fe17f1_PXL_20230920_071311717-min-1024x576.jpg)
+![Image](/blog/media/fe17f1_PXL_20230920_071311717-min-1024x576.jpg)
 
 *Intersting rock formations in Izumo, near the famous lighthouse*
 
-![Image](/media/6d5eeb_PXL_20230919_233541053-min-1024x576.jpg)
+![Image](/blog/media/6d5eeb_PXL_20230919_233541053-min-1024x576.jpg)
 
 *Kirara beach, near Izumo, where I enjoyed some swimming*
 
-![Image](/media/5cb669_PXL_20230917_023340498-min-1024x771.jpg)
+![Image](/blog/media/5cb669_PXL_20230917_023340498-min-1024x771.jpg)
 
 *The monkey park near Beppu*
 
-![Image](/media/d0159a_PXL_20230916_063157636-min-1024x771.jpg)
+![Image](/blog/media/d0159a_PXL_20230916_063157636-min-1024x771.jpg)
 
 *Shiraike jigoku ("white pond hell") in Beppu*
 
-![Image](/media/4eabe4_PXL_20230916_045952481.MP-min-1024x771.jpg)
+![Image](/blog/media/4eabe4_PXL_20230916_045952481.MP-min-1024x771.jpg)
 
 *Umi jigoku ("sea hell") in Beppu*

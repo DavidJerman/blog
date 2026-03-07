@@ -6,7 +6,7 @@ image: ../media/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg
 
 Today I am writing about my long planned trip to Austria. And for those who do not know much of this Germanic country, here are some facts about this beautiful country.
 
-![Image](/media/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg)
+![Image](/blog/media/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg)
 
 *Austrian flag*
 
@@ -20,7 +20,7 @@ But, to get back to the main theme of this post, Bregenz next to the Bodensee la
 
 ## Day 1
 
-![Image](/media/fbc766_IMG_20210921_180155-1024x576.jpg)
+![Image](/blog/media/fbc766_IMG_20210921_180155-1024x576.jpg)
 
 *View on the lake from the apartment*
 
@@ -32,7 +32,7 @@ We began the second day with a decision to visit the neighboring city of Lindau,
 
 We headed there with a car, parking at a P+R parking on the mainland and then continued to the island on foot- Passing the bridge I took a quick photo of the lake and the mentioned sandbank in the distance. The lake was full of swans and ducks, which accompanied us during our simple breakfast next to the lake. 
 
-![Image](/media/7d70ed_IMG_20210922_112556-1024x576.jpg)
+![Image](/blog/media/7d70ed_IMG_20210922_112556-1024x576.jpg)
 
 *View on the lake from the Lindau-mainland bridge*
 
@@ -40,25 +40,25 @@ After that we continued our trip to the island, wandering through the narrow str
 
 While observing the surroundings and the town hall, we also encountered a sight of a zeppelin flying across the sky, which is quite an uncommon occurrence in other countries. 
 
-![Image](/media/7d70ed_IMG_20210922_112556-1024x576.jpg)
+![Image](/blog/media/7d70ed_IMG_20210922_112556-1024x576.jpg)
 
-![Image](/media/6c666b_IMG_20210922_114630-769x1024.jpg)
+![Image](/blog/media/6c666b_IMG_20210922_114630-769x1024.jpg)
 
 *The streets of Lindau*
 
-![Image](/media/73bc5a_IMG_20210922_114825-769x1024.jpg)
+![Image](/blog/media/73bc5a_IMG_20210922_114825-769x1024.jpg)
 
 *The old Lindau town hall*
 
-![Image](/media/4ff124_IMG_20210922_115323-1024x769.jpg)
+![Image](/blog/media/4ff124_IMG_20210922_115323-1024x769.jpg)
 
 *Zeppelin flying across Bodensee*
 
-![Image](/media/05b106_IMG_20210922_115303-1024x769.jpg)
+![Image](/blog/media/05b106_IMG_20210922_115303-1024x769.jpg)
 
 *Lindau harbour with the lighthouse and the lion statue*
 
-![Image](/media/577165_IMG_20210922_123440-769x1024.jpg)
+![Image](/blog/media/577165_IMG_20210922_123440-769x1024.jpg)
 
 *The Bavarian Lion statue*
 
@@ -67,7 +67,7 @@ Following that, we headed to the island's harbour, which has been historically a
 <div class="wp-block-columns">
 <div class="wp-block-column">
 
-![Image](/media/531fef_IMG_20210922_163015-473x1024.jpg)
+![Image](/blog/media/531fef_IMG_20210922_163015-473x1024.jpg)
 
 *Mangturm tower*
 
@@ -82,6 +82,6 @@ We ended our day with a quick dinner of Asian food, that is noodles, yakitori (c
 </div>
 </div>
 
-![Image](/media/816a28_IMG_20210922_193840-1024x473.jpg)
+![Image](/blog/media/816a28_IMG_20210922_193840-1024x473.jpg)
 
 *The red evening sky over the Bodensee lake*

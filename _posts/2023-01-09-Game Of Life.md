@@ -1,8 +1,14 @@
 ---
-category: tech
 title: "Game Of Life"
 date: 2023-01-09
-image: /blog/media/39e2a0_image-1.png
+image: /blog/media/wp_migration/39e2a0_image-1.png
+tags:
+  - programming
+  - automaton
+  - c
+categories:
+  - programming
+  - tech
 ---
 
 Game Of Life, or short Life, is a <a href="https://en.wikipedia.org/wiki/Cellular_automaton" rel="noreferrer noopener" target="_blank">cellular automaton</a> devised by the British mathematician <a href="https://en.wikipedia.org/wiki/John_Horton_Conway" rel="noreferrer noopener" target="_blank">John Horton Conway</a> in 1970. It is a zero-player game, which means, that it requires no further input upon having been initialized to a certain state at the start. The idea is that we have a grid of cells, which can either be dead or alive. We set some of the cells to be alive and the other cells to be dead. After that we start the game/simulation and watch the cells create new patterns. You can read more about cellular automatons on <a data-id="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" data-type="URL" href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" rel="noreferrer noopener" target="_blank">Wikipedia</a>.
@@ -23,7 +29,7 @@ So I created a simple implementation in C++ that simulates the Game OF Life. You
 
 The implementation is cross-platform and uses the OneLoneCoder's Pixel Game Engine for displaying the cells. The library is open-source, easy to include and available on <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">OneLoneCoder/olcPixelGameEngine</a>. The game repository is also available on <a data-id="https://github.com/DavidJerman/GameOfLife" data-type="URL" href="https://github.com/DavidJerman/GameOfLife">DavidJerman/GameOfLife</a>
 
-![Image](/blog/media/39e2a0_image-1.png)
+![Image](/blog/media/wp_migration/39e2a0_image-1.png)
 
 *Game Of Life game state example*
 
@@ -31,7 +37,7 @@ The game allows you to either let the simulation play by itself or. you can set 
 
 Another interesting thing is that you can define other algorithms/rules. Conway's Game Of Life is just one of the many sets of rules that produce interesting output. It is defined as B3/S23 and as explained before, B stands for when cells are born, and S for when cells survive. Other interesting rules that I found (and you can find all of these and many more on Wikipedia) are B1/S12, which generates the following interesting pattern by just adding a single pixel in the middle of the screen:
 
-![Image](/blog/media/e19f96_image-2.png)
+![Image](/blog/media/wp_migration/e19f96_image-2.png)
 
 There are a lot more interesting patterns. I recommend you to try them, experiment with different rules and see what happens!
 

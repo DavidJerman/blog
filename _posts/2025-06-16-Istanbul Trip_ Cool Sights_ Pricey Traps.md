@@ -1,8 +1,13 @@
 ---
-category: travel
 title: "Istanbul Trip: Cool Sights, Pricey Traps"
 date: 2025-06-16
-image: /blog/media/e10684_PXL_20250426_120622253-scaled.jpg
+image: /blog/media/wp_migration/e10684_PXL_20250426_120622253-scaled.jpg
+tags:
+  - istanbul
+  - turkey
+  - group-travel
+categories:
+  - travel
 ---
 
 Istanbul was one of the few remaining "European" destinations on my list. While Turkey is not a part of the EU, it borders two EU countries, and it is partially on the European continent. The other half of Turkey, however, is in Asia—or as the locals often referred to it, Anatolia. Anatolia is how Turks refer to the Asian peninsula that makes up the majority of Turkey’s land area.
@@ -19,15 +24,15 @@ The flight took roughly two hours, landing without complications or delays. Immi
 
 We read online that getting a transit prepaid card (Istanbul Card) was the best and cheapest way to get around. That’s true, so we headed to the nearest “blue machine” to buy one. The problem: there were two blue machines, so we just picked one. Everything looked mostly right. We selected the prepaid card, loaded some cash, and thought that was it. We even took the first metro ride without a problem—only to find out this card wasn’t the “Istanbul Card” but an airport-metro exclusive one that only worked on this line. So, we had to buy another one, the real Istanbul Card. We loaded 500 lira (about 12 EUR), and then we were good for the rest of the week.
 
-![Image](/blog/media/d2f972_20250502_162655-scaled-1.jpg)
+![Image](/blog/media/wp_migration/d2f972_20250502_162655-scaled-1.jpg)
 
 *Boeing 747-8 - Largest passenger aircraft*
 
-![Image](/blog/media/9ebcb5_20250425_134308-1024x768.jpg)
+![Image](/blog/media/wp_migration/55862b_20250425_134308-scaled.jpg)
 
 *Airport entrance*
 
-![Image](/blog/media/23bb4d_PXL_20250425_114306081-1024x771.jpg)
+![Image](/blog/media/wp_migration/01e0cf_PXL_20250425_114306081-scaled.jpg)
 
 *The metro station*
 
@@ -35,11 +40,11 @@ We read online that getting a transit prepaid card (Istanbul Card) was the best 
 
 Istanbul is considered a cat capital by many. And this name is very much deserved. It is home to anywhere between a hundred thousand to a million stray cats. And I would personally say that the numbers totally align with my observations. Cats were afterall everywhere: in front of our hotel, on every street, in front of every mosque and restaurant. I probably saw at least a 100 cats. Being a cat lover, seeing so many of these cute animals made me want to pet them all. And I did pet a couple, since most of the cats were very friendly and looked healthy. Though I did have a little incident where a playful cat scratched me because it thought I had some food in my bag and was not willing to give it to her. Non the less, I took a lot of pictures of the cats across the whole city and it this is something I will remember the city by!
 
-![Image](/blog/media/363931_PXL_20250427_151016093.jpg)
+![Image](/blog/media/wp_migration/363931_PXL_20250427_151016093.jpg)
 
-![Image](/blog/media/58cd8a_PXL_20250427_151021300-1024x768.jpg)
+![Image](/blog/media/wp_migration/dbce56_PXL_20250427_151021300-scaled.jpg)
 
-![Image](/blog/media/2a2a76_PXL_20250426_120622253-1024x771.jpg)
+![Image](/blog/media/wp_migration/e10684_PXL_20250426_120622253-scaled.jpg)
 
 ### We slept in a favela...
 
@@ -77,15 +82,15 @@ One interesting find was during our first meal at a local kebab place. I saw a d
 
 Now, for the praise: desserts were excellent. I especially loved Turkish delight, followed closely by lokum. We often came across baklava and fancy cakes, too. I tried them all, and cinnamon Turkish delight was by far my favorite.
 
-![Image](/blog/media/381c99_20250429_132834.jpg)
+![Image](/blog/media/wp_migration/381c99_20250429_132834.jpg)
 
 *What my friend ordered*
 
-![Image](/blog/media/353727_20250501_182835.jpg)
+![Image](/blog/media/wp_migration/353727_20250501_182835.jpg)
 
 *Schawarma*
 
-![Image](/blog/media/fd8a03_20250426_091454.jpg)
+![Image](/blog/media/wp_migration/fd8a03_20250426_091454.jpg)
 
 *Anatolian eggs*
 
@@ -115,11 +120,11 @@ The city had many stunning sights! One of the most remarkable structures were de
 
 I have already described my experience with the airport in the previous paragraphs. So let’s jump straight to probably the most famous mosques in Istanbul: Hagia Sophia and the Blue Mosque. Both of them boast a rich history, with Hagia Sophia originally built in AD 537 as a cathedral during the Byzantine Empire, later converted into a mosque, then a museum, and once again into a mosque. The Blue Mosque, officially known as the Sultan Ahmed Mosque, was built between 1609 and 1617 and is known for its stunning blue tiles and grand architecture. The two mosques stand across from each other, and there’s a good reason behind that—the Blue Mosque was partially built to rival the Hagia Sophia. Sultan Ahmed I wanted to show the world the strength of the Ottoman Empire, especially during a time when things weren’t exactly going smoothly—military losses, internal issues, etc.
 
-![Image](/blog/media/f95409_PXL_20250425_171019912-1024x576.jpg)
+![Image](/blog/media/wp_migration/cc5fb3_PXL_20250425_171019912-scaled.jpg)
 
 *Hagia Sophia*
 
-![Image](/blog/media/decb3c_PXL_20250425_165158681-1024x576.jpg)
+![Image](/blog/media/wp_migration/2f9be0_PXL_20250425_165158681-scaled.jpg)
 
 *... and its entrance*
 
@@ -127,11 +132,11 @@ Another cool place was the Grand Bazaar (but make sure not to get scammed, like 
 
 Some photos from the Grand Bazaar:
 
-![Image](/blog/media/c4ba33_PXL_20250426_063532348-1024x768.jpg)
+![Image](/blog/media/wp_migration/998446_PXL_20250426_063532348-scaled.jpg)
 
-![Image](/blog/media/fab824_PXL_20250426_080019929-1024x768.jpg)
+![Image](/blog/media/wp_migration/20bb6d_PXL_20250426_080019929-scaled.jpg)
 
-![Image](/blog/media/b90161_PXL_20250426_063607346-1024x768.jpg)
+![Image](/blog/media/wp_migration/bb660e_PXL_20250426_063607346-scaled.jpg)
 
 Çamlica Tower was another cool place, but a bit more modern. It’s one of the highest buildings in Istanbul, and given that it’s on top of a hill, it probably offers the best views of the city from afar. I love ascending skyscrapers in all the cities that I visit, and such was the plan this time as well. We checked the prices online, and 8€ seemed like a fair entry fee. Unfortunately, upon arrival, we were told that the fee was way higher—over 25€. And that was a bit too much for us, given that the views were already amazing from the top of the hill. So we visited a nearby café, ordered some really cheap tea and desserts, and enjoyed the view of the city. It was quite windy, but the delicious little cake I ordered made up for the unfavorable weather. The path down the hill through the park was very nice—green as it gets and full of animals. We saw multiple parrots, cats, and even a dog that accompanied us the entire way through the park.
 
@@ -139,9 +144,9 @@ The Asian part of Istanbul, where Çamlica Tower is located, is also home to man
 
 Some great views from top of the hill:
 
-![Image](/blog/media/2b1062_20250427_170447-1024x577.jpg)
+![Image](/blog/media/wp_migration/1e6f81_20250427_170447-scaled.jpg)
 
-![Image](/blog/media/f2bae6_PXL_20250427_152041373-1024x576.jpg)
+![Image](/blog/media/wp_migration/52494f_PXL_20250427_152041373-scaled.jpg)
 
 And probably my favorite adventure was the boat ride through the Bosporus. We decided to sail from Eminönü to Rumeli Kavağı, a coastal village pretty close to the Black Sea. The boat ride took about 1h 30min, which was just the right amount of time to observe all the bridges and various historical buildings along the coast. But the farther we got, the more those buildings were replaced with nature and small villages. It was quite windy outside (indeed, the weather wasn't the best throughout the entire week), but I still stepped outside to enjoy the fresh air and snap some pictures. The ferry was full of people since it’s actually part of the public transport infrastructure. I honestly don’t know many cities where boats are used like this, so I found it super interesting! The ride was also very cheap, costing us only a bit more than 2€, or double the fare of taking a train. As such, the ferry was packed with other passengers. However, by the time we reached the final port, it was almost empty. Only a few passengers besides us were left.
 
@@ -153,11 +158,11 @@ Nonetheless, we had quite a lot of fun watching and playing with a seagull on th
 
 After lunch, we explored the village a bit, visited a grocery store, and came across a military facility full of soldiers marching across the training grounds. The ride back to Eminönü was even nicer though. As we approached the city, the sun was setting, and we got to witness a beautiful reddish sky marking the end of the day.
 
-![Image](/blog/media/4bfd03_PXL_20250430_123234287-scaled-1.jpg)
+![Image](/blog/media/wp_migration/4bfd03_PXL_20250430_123234287-scaled-1.jpg)
 
-![Image](/blog/media/3ac6a2_20250430_170715-1024x577.jpg)
+![Image](/blog/media/wp_migration/9f3581_20250430_170715-scaled.jpg)
 
-![Image](/blog/media/29e453_20250430_201152-1024x577.jpg)
+![Image](/blog/media/wp_migration/26e216_20250430_201152-scaled.jpg)
 
 ### Public transport
 

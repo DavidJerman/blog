@@ -1,9 +1,22 @@
 ---
-category: travel
 title: "Another trip yet again..."
 date: 2024-08-27
-image: /blog/media/c96129_image.png
-tags: japan2024
+image: /blog/media/wp_migration/c96129_image.png
+tags:
+  - duo-travel-en
+  - hiroshima-en
+  - kyoto-en
+  - japan
+  - himeji-en
+  - osaka-en
+  - nara-en
+  - nikko-en
+  - travel
+  - izu-oshima-en
+  - fukushima-en
+  - tokyo-en
+categories:
+  - travel
 ---
 
 A year has passed and it is yet again time for me to embark on another journey. And yet again, my journey leads me to a familiar place that left such a big impression on me for the first time, that I have long wanted to revisit it as soon as possible.
@@ -48,7 +61,7 @@ After that, the trip spans all the way from Aomori to Hiroshima. That might be q
 
 - Nagoya Castle.
 
-![Image](/blog/media/c96129_image.png)
+![Image](/blog/media/wp_migration/c96129_image.png)
 
 *Some points of interest that I have saved on Google Maps.*
 

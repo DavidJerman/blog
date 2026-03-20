@@ -1,8 +1,17 @@
 ---
-category: tech
 title: "Horizontal Micro-Architecture Simulator [1]"
 date: 2023-01-21
-image: /blog/media/6cb21c_image-3.png
+image: /blog/media/wp_migration/6cb21c_image-3.png
+tags:
+  - micro-architecture-en
+  - mic1-en
+  - mac1-en
+  - cpu-en
+  - c-en
+  - programming-en
+categories:
+  - programming
+  - tech
 ---
 
 This is just an introductory post into the development of a MIC1 horizontal microarchitecture simulator. The aim is to simulate the working of such an architecture, allow the parsing of pascal like code to write a micro-program and while simulating the execution of an instruction also visualize it.
@@ -33,6 +42,4 @@ The plan for now is to first finish the parser. That should be one of the major 
 
 #### Next post:
 
-<div class="wp-block-embed__wrapper">
 https://davidblog.si/2023/01/25/ho-micro-architecture-simulator-2/
-</div>

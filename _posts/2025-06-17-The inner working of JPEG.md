@@ -1,8 +1,14 @@
 ---
-category: tech
 title: "The inner working of JPEG"
 date: 2025-06-17
-image: /blog/media/a2a5d0_yuv_demo.png
+image: /blog/media/wp_migration/a2a5d0_yuv_demo.png
+tags:
+  - programming-en
+  - jpeg
+  - compression
+categories:
+  - programming
+  - tech
 ---
 
 Imagine a world without JPEG… well, actually, I can. These days, we’ve got plenty of more advanced image compression formats—JPEG2000, JPEG-LS, WebP, AVIF, and so on. JPEG could almost be called a relic of the past. It’s tech from the late 80s, yet it's still everywhere simply because it works well enough and became a standard.
@@ -31,7 +37,7 @@ The goal of these steps is to remove as much data from the image while maintaini
 
 The image below sums up how JPEG works:
 
-![Image](/blog/media/a3d9bc_media-1101219-fig1.webp)
+![Image](/blog/media/wp_migration/a3d9bc_media-1101219-fig1.webp)
 
 *Source:https://www.eetimes.com/wp-content/uploads/media-1101219-fig1.jpg*
 
@@ -59,7 +65,7 @@ So what’s the benefit? Our eyes are much more sensitive to brightness changes 
 
 As you can see in the image below, the Y channel (brightness) holds all the details of the image, even though it doesn’t have any color information. On the other hand, the UV channels produce a blurry, hard-to-recognize image.
 
-![Image](/blog/media/a2a5d0_yuv_demo.png)
+![Image](/blog/media/wp_migration/a2a5d0_yuv_demo.png)
 
 That’s the core idea behind this step: switching to a format where we can reduce more data without visibly wrecking the image.
 
@@ -67,7 +73,7 @@ Converting between RGB and YUV is lossless and mathematically straightforward. Y
 
 Here are the formulas used for conversion:
 
-![Image](/blog/media/35be11_image.png)
+![Image](/blog/media/wp_migration/35be11_image.png)
 
 ## Step 2: UV subsampling
 
@@ -79,27 +85,17 @@ So what does this look like? For the UV channels, we take blocks of 4 pixels and
 
 The image below shows how this subsampling process works:
 
-![Image](/blog/media/e90afd_image-2.png)
+![Image](/blog/media/wp_migration/e90afd_image-2.png)
 
 ## What is DCT?
 
 Now that we’ve done subsampling, it’s time for the real compression magic to start.
 
-<div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:66.66%">
-
 The next step in JPEG is something called the **Discrete Cosine Transform**, or DCT for short. Sounds fancy, but the idea is pretty chill: we’re taking small blocks of pixels (usually 8x8) and breaking them down into their **frequency components**.
 
 Think of it like this: instead of storing each pixel directly, we ask—*“How much of this block looks like a smooth gradient? How much is a sharp edge? How much is just noise?”* DCT turns our block of numbers into a bunch of cosine wave patterns, each representing a different "texture" or frequency.
 
-</div>
-
-<div class="wp-block-column" style="flex-basis:33.33%">
-
-![Image](/blog/media/3e0581_image-5.png)
-
-</div>
-</div>
+![Image](/blog/media/wp_migration/3e0581_image-5.png)
 
 Think of it like this: instead of storing each pixel directly, we ask—*“How much of this block looks like a smooth gradient? How much is a sharp edge? How much is just noise?”* DCT turns our block of numbers into a bunch of cosine wave patterns, each representing a different "texture" or frequency.
 
@@ -124,7 +120,7 @@ To fix that, we subtract **128** from each pixel value. This shifts the range to
 
 The image below illustrates both the padding and the normalization step—these are the final things we need to handle before applying the DCT.
 
-![Image](/blog/media/1b8269_image-6.png)
+![Image](/blog/media/wp_migration/1b8269_image-6.png)
 
 *Source:https://medium.com/@abhinavtripathi95/jpeg-image-format-or-compression-for-dummies-758664a6aff9*
 
@@ -150,11 +146,11 @@ After this step, each 8×8 block is mostly filled with zeros, with just a handfu
 
 Here is an example from Wikipedia (DCT coefficient matrix -> quantization matrix -> result):
 
-![Image](/blog/media/bda0a6_9504c3604a453f33012e2e40cd236baeb336d646.jpg)
+![Image](/blog/media/wp_migration/bda0a6_9504c3604a453f33012e2e40cd236baeb336d646.jpg)
 
-![Image](/blog/media/53b3f7_e3861b24e1e5cb44062d02190178320baffa5d7f.jpg)
+![Image](/blog/media/wp_migration/53b3f7_e3861b24e1e5cb44062d02190178320baffa5d7f.jpg)
 
-![Image](/blog/media/ff81e5_8f4b53c442e0cfca6fefb3e379c14f7e1c744e7c.jpg)
+![Image](/blog/media/wp_migration/ff81e5_8f4b53c442e0cfca6fefb3e379c14f7e1c744e7c.jpg)
 
 ## Part 5.1: Zig-zag reading
 
@@ -162,7 +158,7 @@ With quantization done, the next step is to **read the values in a specific patt
 
 Why? Because this groups the non-zero values together at the beginning and pushes all the zeros to the end. That makes the next compression step **way more efficient**.
 
-![Image](/blog/media/b4cf25_Zigzag_scanning.jpg)
+![Image](/blog/media/wp_migration/b4cf25_Zigzag_scanning.jpg)
 
 ## Part 5.2: DC/AC encoding
 

@@ -1,8 +1,15 @@
 ---
-category: tech
 title: "CPU Monitor [1] - A bit closer to hardware"
 date: 2022-11-07
-image: /blog/media/89806b_assembly-programming-language-code-monitor-50939740.jpg
+image: /blog/media/wp_migration/89806b_assembly-programming-language-code-monitor-50939740.jpg
+tags:
+  - cpu-en
+  - programming-en
+  - assembly-en
+  - c-en
+categories:
+  - programming
+  - tech
 ---
 
 After deciding to make a <a data-id="https://github.com/DavidJerman/CPUMonitor" data-type="URL" href="https://github.com/DavidJerman/CPUMonitor">CPU monitor application</a> in C++, I thought to myself that it should be a fairly simple task involving the calling of some libraries, but a closer look at the problem revealed that this is not the case.  Sure there are some libraries on the internet that offer all sorts of CPU information, but to get all the data, I decided to write my own library. This however is not so straightforward. Accessing the CPU information requires the use of assembly language, which can be embedded in the C++ code. <a data-id="https://nixhacker.com/getting-processor-info-using-cpuid/" data-type="URL" href="https://nixhacker.com/getting-processor-info-using-cpuid/">A useful guide that helped me get started</a>.
@@ -41,13 +48,13 @@ Basically the code above first "saves" value 0 inside of the *eax* register and 
 
 After the *cpuid* instruction is executed for the 0000_0000 function (that is why we saved value 0 inside of the *eax* register), output of that function is saved inside of the *eax* to *edx* registers. Looking at the sheet, we can see the values saved inside of the registers.
 
-![Image](/blog/media/37ecb3_AMD_Fn0000_0000_EDCBX.png)
+![Image](/blog/media/wp_migration/37ecb3_AMD_Fn0000_0000_EDCBX.png)
 
 Inside of the registers are the values representing the vendor's name (AuthenticAMD), we just have to read the values in the right order and potentially convert them to characters - which I did by shifting the values inside of the integers.
 
 Running the program yields the following output.
 
-![Image](/blog/media/9a5a5f_image.png)
+![Image](/blog/media/wp_migration/9a5a5f_image.png)
 
 By using different functions we can of course get even more data. By using the 0000_0001 instruction we can for example get information about the CPU family, model and stepping, local APIC ID, logical processor count and much more. More information about this can be found in the mentioned CPU Specification Sheets or in <a data-id="https://github.com/DavidJerman/CPUMonitor" data-type="URL" href="https://github.com/DavidJerman/CPUMonitor">my repository</a> where I am actively developing this program.
 
@@ -92,17 +99,17 @@ int main()
 
 So how do you know how and where to get all this data? We again have to look at the datasheet.
 
-![Image](/blog/media/a286a2_AMD_Fn0000_0001_EAX.png)
+![Image](/blog/media/wp_migration/a286a2_AMD_Fn0000_0001_EAX.png)
 
 This table represents the contents of the *eax* register after the execution of the *cpuid* instruction with the function 0000_0001. We can see that the first four bits from the right represent the stepping - basically a version of a particular model. So how do we extract this number? By using bitwise operations. We can just use AND with a 0b1111 mask and get the first (from right) bits or more formally the four least significant bits. Then we just use the 0b1111 mask with AND and we get the value we want. After that we can shift the whole register value by four bits and continue with the process until we have extracted all the bits.
 
 By the way, this is the output I get by running the code above on my system - the processor I am using is AMD Ryzen 7 3700X.
 
-![Image](/blog/media/9c285b_AMD_Fn0000_0001_EAX_output.png)
+![Image](/blog/media/wp_migration/9c285b_AMD_Fn0000_0001_EAX_output.png)
 
 For example, according to the datasheet we can calculate that the family (number) of my CPU is 23 (base family + extended family) and we get the number 23. If we look at the <a data-id="https://en.wikipedia.org/wiki/List_of_AMD_CPU_microarchitectures" data-type="URL" href="https://en.wikipedia.org/wiki/List_of_AMD_CPU_microarchitectures">AMD's List of CPU microarchitectures</a>, we can see that the CPU falls in the Zen / Zen+ / Zen 2 family, which Ryzen 7 3700X is a part of.
 
-![Image](/blog/media/d94404_AMD_List_of_CPU_microarchitectures.png)
+![Image](/blog/media/wp_migration/d94404_AMD_List_of_CPU_microarchitectures.png)
 
 The model number also fits the hex value in the table (17h). Checking <a data-id="https://en.wikichip.org/wiki/amd/ryzen_7/3700x" data-type="URL" href="https://en.wikichip.org/wiki/amd/ryzen_7/3700x">this website</a> it seems that the stepping number is also correct.
 

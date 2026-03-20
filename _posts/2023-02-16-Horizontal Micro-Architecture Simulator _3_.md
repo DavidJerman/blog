@@ -1,8 +1,16 @@
 ---
-category: tech
 title: "Horizontal Micro-Architecture Simulator [3]"
 date: 2023-02-16
-image: /blog/media/6cb21c_image-3.png
+image: /blog/media/wp_migration/6cb21c_image-3.png
+tags:
+  - mic1
+  - assembly
+  - programming
+  - c
+  - mac1
+categories:
+  - programming
+  - tech
 ---
 
 After the exams period I decided to finish this project. To sum everything up: I added all the remaining components, completed the parser (although there are some bugs that I suspect might be present in the code). I suspect operands order might be a problem - especially MBR and MAR registers not being in the correct places etc., but I have not verified this, since I want to wrap this project up. I might take a closer look at this, but right now, the simulator works for all the different programs that I have tried it with. One of the programs that I have tried it with is SUMOFN.MP, which sums up all the numbers from the memory. Here is the pascal-like program:
@@ -142,6 +150,4 @@ This was a fun little project that helped me better understand the working of a 
 
 #### Previous post
 
-<div class="wp-block-embed__wrapper">
 https://davidblog.si/2023/01/25/ho-micro-architecture-simulator-2/
-</div>

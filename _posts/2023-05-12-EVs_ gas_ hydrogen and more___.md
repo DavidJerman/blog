@@ -1,8 +1,16 @@
 ---
-category: tech
 title: "EVs, gas, hydrogen and more..."
 date: 2023-05-12
-image: /blog/media/3de0cb_2022-BMW-iX-vs-competition-spec-comparison-scaled.webp
+image: /blog/media/wp_migration/3de0cb_2022-BMW-iX-vs-competition-spec-comparison-scaled.webp
+tags:
+  - cars
+  - renewable-sources
+  - ice
+  - energy
+  - ev
+  - hydrogen
+categories:
+  - technology
 ---
 
 We live in the age, where gas-powered cars or ICEs (short for Internal Combustion Engine) are not the only types of vehicles on the road. There are various other kinds of cars available on the market in this day and age. Each of them has specific upsides and downsides to them. Some are more expensive, some of them more environmentally friendly, some offer a longer range as a result of a more energy-dense fuel and so on. I will be comparing all of them based on fuel production and price, overall price of the car, environmental impact, infrastructure and much more. However, I will mainly focus on electric vs. gas since this is the most commonly debated comparison when it comes to cars right now. I will try to address the most commonly debated topics such as cobalt mining, sources of electricity for EVs etc. I will try to base this analysis on data from various countries, but will probably mostly focus on the EU and US since these are the markets I am most familiar with. I will also try to cross-reference the data, since I want to make an unbiased report on the matter, one that is based on facts and research. However, there goes a disclaimer: I am not an expert in this field, I am just a technology enthusiast, interested in any new technology and curious about how things really are. So I encourage you to research my claims yourself!
@@ -33,7 +41,7 @@ When it comes to emissions, there have been many debates held on this topic. But
 
 Bet let us not talk too much and let's look at actual data, and crunch some numbers. A study by the Eindhoven University of Technology from 2020 compared the lifetime greenhouse gas emissions of EVs with those of gas cars.
 
-![Image](/blog/media/2f1096_image.png)
+![Image](/blog/media/wp_migration/2f1096_image.png)
 
 *Lifetime emissions of two similar cars over their lifetime (EV vs gas),Eindhoven University of Technology*
 
@@ -41,7 +49,7 @@ As we can see from the table above, it is estimated that a similar EV will emit 
 
 Another study by <a href="https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions/executive-summary">IEA</a> analyzed The Role of Critical Minerals in Clear Energy Transition and compared EVs to ICEs. The study suggests that once again EVs emit far less CO2 emissions even with current sources of electricity, in addition, the emission could be reduced by another 25% with low-carbon electricity (solar, wind, nuclear...).
 
-![Image](/blog/media/8ff4de_comparative-life-cycle-greenhouse-gas-emissions-of-a-mid-size-bev-and-ice-vehicle-1.png)
+![Image](/blog/media/wp_migration/8ff4de_comparative-life-cycle-greenhouse-gas-emissions-of-a-mid-size-bev-and-ice-vehicle-1.png)
 
 *IEA, Comparative life-cycle greenhouse gas emissions of a mid-size BEV and ICE vehicle, IEA, Paris https://www.iea.org/data-and-statistics/charts/comparative-life-cycle-greenhouse-gas-emissions-of-a-mid-size-bev-and-ice-vehicle, IEA. Licence: CC BY 4.0*
 
@@ -107,7 +115,18 @@ This was a bit of my rambling, but now let's get to the facts and numbers.
 
 First of all, we have to talk about emissions. While buses on their own, being bigger vehicles, emit more CO2 emissions, the picture changes as soon as you take into account the fact that they usually transport many people at a time. They are also utilized more efficiently by transporting people all day unlike a car, which is usually only used up to a couple of times a day. This leads to less lifetime emissions of a vehicle per passenger(s) transported. It gets even better when you consider that buses can also be electrified. Trains are even better and more efficient since they run on electricity and use rails instead of roads. According to the research by BEIS national rail in the UK is the greenest option when it comes to carbon emissions right after walking and cycling (which, if you exclude the food you have to eat to get the energy, is a zero-emission way of travelling). Below is a table that summarizes the research data. The right column represents the average emissions per passenger per kilometre in kg of carbon emissions. You can find the entire table <a href="https://www.surreycc.gov.uk/roads-and-transport/policies-plans-consultations/transport-plan/carbon-emissions">here</a>.
 
-<table><tbody><tr><td>Walking</td><td>0 kg</td></tr><tr><td>Cycling</td><td>0 kg</td></tr><tr><td>National rail</td><td>0.0351 kg</td></tr><tr><td>Small EV, driver only</td><td>0.04519 kg</td></tr><tr><td>Large EV, driver only</td><td>0.06004 kg</td></tr><tr><td>Medium Motorbike petrol</td><td>0.08094 kg</td></tr><tr><td>Diesel Bus</td><td>0.10144 kg</td></tr><tr><td>Small diesel ICE, driver only</td><td>0.1357 kg</td></tr><tr><td>Small petrol ICE, driver only</td><td>0.14878 kg</td></tr></tbody></table>*Travel pollution rates from the best to the worst,Surrey Couney Council*
+| Walking | 0 kg |
+|---|---|
+| Cycling | 0 kg |
+| National rail | 0.0351 kg |
+| Small EV, driver only | 0.04519 kg |
+| Large EV, driver only | 0.06004 kg |
+| Medium Motorbike petrol | 0.08094 kg |
+| Diesel Bus | 0.10144 kg |
+| Small diesel ICE, driver only | 0.1357 kg |
+| Small petrol ICE, driver only | 0.14878 kg |
+
+*Travel pollution rates from the best to the worst,Surrey Couney Council*
 
 Another research by <a href="https://transportation.ucla.edu/blog/5-environmental-benefits-sustainable-transportation">UCLA </a>similarly shows that taking public transport in the US reduces CO2 emissions by 45%.
 
@@ -127,7 +146,7 @@ We also have to talk about the total cost of ownership, which is lower when it c
 
 This likely is one of the factors that people might see as the weak points of EVs, although it probably isn't as big of a problem as people make it to be.<a href="https://blinkcharging.com/fact-from-fiction-the-real-reason-why-consumers-dont-buy-electric-vehicles/?locale=en"> Most people</a> still fear their EVs will run out of range or that they will not be able to find a charging station. Here are some top reasons why people don't want to buy an EV:
 
-![Image](/blog/media/153166_image.png)
+![Image](/blog/media/wp_migration/153166_image.png)
 
 As you can see most people's range anxiety usually goes away after getting the EV. This fear however is understandable, since the technology is new, the way a car charges is different and if your car runs out of electricity you cannot just simply fill it up. So, let's look at some numbers!
 

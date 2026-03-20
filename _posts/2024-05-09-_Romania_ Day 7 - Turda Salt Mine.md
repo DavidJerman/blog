@@ -1,9 +1,16 @@
 ---
-category: travel
 title: "[Romania] Day 7 - Turda Salt Mine"
 date: 2024-05-09
-image: /blog/media/68dac8_IMG_0963.jpeg
-tags: romania2024
+image: /blog/media/wp_migration/68dac8_IMG_0963.jpeg
+tags:
+  - road-trip-en
+  - turda-en
+  - travel-en
+  - romania-en
+  - group-travel-en
+  - romania2024
+categories:
+  - travel
 ---
 
 I woke up early after a sleepless night. My friend was once again snoring like a gorilla, leaving me no choice but to wake up and go outside the room. I don't understand how I never wake myself up, since my friends claim I snore too. It is the first time I was told I do that during sleep. But anyway, I got almost used to this by the seventh day, so I just continued with my day. With the iPad in my hand, I sat on the couch outside the hotel room and decided to write about the day before - day 6. An hour or two passed and I was already thinking if I should start reading my newly bought book - Shogun. I will probably write a short post about it (when I finish the book) since I fell in love with it and the recent series based on this novel. But as soon as I started thinking about the book, my other (less snoring) friend joined me on the couch. He too complained of loud snoring and I could relate. And so we both awaited the awakening of our friends so that we could head to the dining area for breakfast.
@@ -14,24 +21,24 @@ With full stomachs, we continued towards Turda Salt Mine - one of the most popul
 
 We entered the salt mine through a building that had a long tunnel going all the way to the bottom of the first level of the salt mine. There was no elevator, just stairs. This staircase might be a worthy competitor to the Doai train station (one of the deepest train stations in the world). The walls were covered in salt all the way along the staircase and the mine corridors. They were either polished and slightly wet, with wave-like patterns or had crystal formations forming on them. The bottom line was, that there was salt everywhere - in the walls, on the walls, on the ground, on the ceiling and even in the air. After some time I even started tasting salt just by breathing the air. And what surprised me, was that the mine wasn't that cold. Wearing just an ice-peak was enough to keep me warm. I managed to take some really nice pictures. I enjoyed every step, observing the walls and wondering how old this mine might actually be. Turns out, its history spans all the way back to the 11th century. This is perhaps when Romanians started extracting the salt for use in the kitchen. But the actual documents speaking explicitly of the mine are from the year 1271.
 
-![Image](/blog/media/734777_PXL_20240503_102115124-min-771x1024.jpg)
+![Image](/blog/media/wp_migration/6e8ce5_PXL_20240503_102115124-min-scaled.jpg)
 
 *The captivating salt tunnels*
 
-![Image](/blog/media/3ffc61_PXL_20240503_101604623-min-771x1024.jpg)
+![Image](/blog/media/wp_migration/f0ad72_PXL_20240503_101604623-min-scaled.jpg)
 
 *Salt crystal formations on the walls*
 
-![Image](/blog/media/47d1c4_PXL_20240503_104006507-min-min-1024x576.jpg)
+![Image](/blog/media/wp_migration/c39c2b_PXL_20240503_104006507-min-min-scaled.jpg)
 
 *Interesting shapes carved by millions of years of geological activity*
 
 The icing on the cake of the cave was the main hall - 50 meters tall and 80 meters long. The hall was astounding and had great lighting that lit the entire hall and created an amazing ambience. The aforementioned wave-like shapes were even more prominent here with the entire ceiling looking like that. The only downside was in my opinion the fact, that an amusement park was built inside the hall. I would much rather have seen an exhibition of some sort - perhaps a historical or a geological tour. But, nonetheless, it was quite cool. The hall then expanded to an even deeper part that was circular in shape and at the bottom of this compartment was a salt lake, which was filled with boats that took the tourists for a short boat ride around the lake. My friends were excited to partake in this activity while I opted to stay on land.
 
-![Image](/blog/media/a8dda9_PXL_20240503_104636786-min-1024x771.jpg)
+![Image](/blog/media/wp_migration/7c3e06_PXL_20240503_104636786-min-scaled.jpg)
 
-![Image](/blog/media/4f03c0_PXL_20240503_104844459-min-1024x771.jpg)
+![Image](/blog/media/wp_migration/83e8ac_PXL_20240503_104844459-min-scaled.jpg)
 
-![Image](/blog/media/2865cf_PXL_20240503_105924413-min-1024x771.jpg)
+![Image](/blog/media/wp_migration/3da083_PXL_20240503_105924413-min-scaled.jpg)
 
 The day concluded with a lunch, a long drive to our motel and a stop at a local supermarket. There we decided to buy a cake for no good reason. The cake's name was Boromir, so we couldn't resist. The taste was actually ok, but the cake was pretty much just chocolate, cream and dough. In addition to that we bought a variety of other pastries to make sure we were not hungry the following morning.

@@ -1,36 +1,46 @@
 ---
-category: tech
 title: "Quick Assembly cheat sheet [x64 NASM]"
 date: 2022-11-23
-image: /blog/media/89806b_assembly-programming-language-code-monitor-50939740.jpg
+image: /blog/media/wp_migration/89806b_assembly-programming-language-code-monitor-50939740.jpg
+tags:
+  - programming-en
+  - assembly-en
+categories:
+  - programming
+  - tech
 ---
 
 This is just a list of some basic ASM instructions and C functions that are useful when getting started with assembly. Instructions that require additional values in registers will have a list of required values. The list is still being worked on. For more instructions one should use a NASM manual, reference or something similar. Once you understand the basics it isn't hard to look at the manual for new instructions. Note that the wording and terminology might be wrong here and there since I am still a beginner at this.
 
-<table><tbody><tr><td>extern <function></td><td>Import an external (C) function.</td></tr><tr><td>section <section_type></td><td>A section - it can be an executable code section (.text), a data section (.data) or a portion of assembly code that contains statically allocated variables (.bss).</td></tr><tr><td>global <symbol></td><td>NASM specific instruction - export symbols in your code to where it points in the object code generated (in Linux that would be for example main).  
-It basically tells the kernel where the entry point of the program is, where it starts.</td></tr><tr><td>mov <to>, <from></td><td>Move data to a register from a register/value/variable/location.  
-When referring to data in the .bss section, surround the variable names with square brackets (mov rax, [N]),  
-Also when moving data inside of the .bss variable add the data type before it (mov qword [1], 1).</td></tr><tr><td>syscall</td><td>Do a system call. The required register values below are for the print system call. More can be found <a data-id="https://filippo.io/linux-syscall-table/" data-type="URL" href="https://filippo.io/linux-syscall-table/" rel="noreferrer noopener" target="_blank">here</a>.  
-Rax = <<a data-id="https://filippo.io/linux-syscall-table/" data-type="URL" href="https://filippo.io/linux-syscall-table/" rel="noreferrer noopener" target="_blank">System call number</a>>  
-Rdi = <Parameter for operation>  
-Rsi = <Message address>  
-Rdx = <Message length [bytes]></td></tr><tr><td>xor <reg_a>, <reg_b></td><td>Xor operation on two registers.</td></tr><tr><td><label_name>: db <data>, <more_data></td><td>Save data in the data section - db is the byte data type.</td></tr><tr><td><label_name>: equ $-msg</td><td>Save the length of the message in the data section.</td></tr><tr><td>.<decl_name></td><td>Declaration - defines a part/block of code, we can use it to jump to it - it works in tandem with the goto instruction (in NASM that is jmp, jg, jl etc.).</td></tr><tr><td>push <data></td><td>Pushes data on the stack.  
-Often we have to push the rbp register on the stack at the beginning - rbp contains the <a data-id="https://softwareengineering.stackexchange.com/questions/194339/frame-pointer-explanation#:~:text=The%20frame%20pointer%20(%24fp,relative%20to%20the%20frame%20pointer." data-type="URL" href="https://softwareengineering.stackexchange.com/questions/194339/frame-pointer-explanation#:~:text=The%20frame%20pointer%20(%24fp,relative%20to%20the%20frame%20pointer." rel="noreferrer noopener" target="_blank">frame pointer</a>.</td></tr><tr><td>call <function></td><td>Calls an (external) function.   
-Calls any function and then returns to where the function was called.</td></tr><tr><td>cmp <reg_a, req_b/var></td><td>Compare two values in registers/variables.</td></tr><tr><td>jg .<declaration></td><td>Jump to a declaration if a number was greater (a cmp instruction or similar should be used before).</td></tr><tr><td>jl .<declaration></td><td>Jump to a declaration if a number was lower (a cmp instruction or similar should be used before).</td></tr><tr><td>jne .<declaration></td><td>Jump to a declaration if a number was not equal (a cmp instruction or similar should be used before).</td></tr><tr><td>inc <reg/var></td><td>Increase the value of a register/variable by one.</td></tr><tr><td>dec <reg/var></td><td>Decrease the value of a register/variable by one.</td></tr><tr><td>jmp .<declaration></td><td>Jump to a specified declaration.</td></tr><tr><td>pop <reg></td><td>Pop value off a stack to a specified register.</td></tr><tr><td>ret</td><td>Return/exit from the program. A return value should be specified in the %rax register.</td></tr><tr><td><var_name> resq <n></td><td>Reserve n-qwords of data for later use.</td></tr><tr><td>scanf</td><td>Input:  
-%rdi - Input format - address to the format string,  
-%rsi - Where to save the value,  
-%rax - Save a 0 here.  
-Output:  
-Variable/register specified in %rsi</td></tr><tr><td>printf</td><td>Input:  
-%rdi - Output format - address to the format string,  
-%rsi - What we are printing out,  
-%rax - Set this to 0.  
-Output:  
-Specified value is printed out on the screen.</td></tr><tr><td>div <divisor></td><td>Input:  
-%rax - Dividend,  
-Output:  
-%rax - Quotient,  
-%rdx - Remainder. </td></tr><tr><td>lodsb</td><td>Loads a byte from [%rsi] into %al. If the direction flag is set, decrements %rsi, else it increments.</td></tr><tr><td>stosb</td><td>Stores a byte in %al into [%rdi]. If the direction flag is set, decrements %rdi, else increments.</td></tr><tr><td>cld</td><td>Clears direction flag.</td></tr><tr><td>std</td><td>Set direction flag.</td></tr></tbody></table>
+| extern &lt;function&gt; | Import an external (C) function. |
+|---|---|
+| section &lt;section_type&gt; | A section - it can be an executable code section (.text), a data section (.data) or a portion of assembly code that contains statically allocated variables (.bss). |
+| global &lt;symbol&gt; | NASM specific instruction - export symbols in your code to where it points in the object code generated (in Linux that would be for example main).  <br>It basically tells the kernel where the entry point of the program is, where it starts. |
+| mov &lt;to&gt;, &lt;from&gt; | Move data to a register from a register/value/variable/location.  <br>When referring to data in the .bss section, surround the variable names with square brackets (mov rax, [N]),  <br>Also when moving data inside of the .bss variable add the data type before it (mov qword [1], 1). |
+| syscall | Do a system call. The required register values below are for the print system call. More can be found <a data-id="https://filippo.io/linux-syscall-table/" data-type="URL" href="https://filippo.io/linux-syscall-table/" rel="noreferrer noopener" target="_blank">here</a>.  <br>Rax = &lt;<a data-id="https://filippo.io/linux-syscall-table/" data-type="URL" href="https://filippo.io/linux-syscall-table/" rel="noreferrer noopener" target="_blank">System call number</a>&gt;  <br>Rdi = &lt;Parameter for operation&gt;  <br>Rsi = &lt;Message address&gt;  <br>Rdx = &lt;Message length [bytes]&gt; |
+| xor &lt;reg_a&gt;, &lt;reg_b&gt; | Xor operation on two registers. |
+| &lt;label_name&gt;: db &lt;data&gt;, &lt;more_data&gt; | Save data in the data section - db is the byte data type. |
+| &lt;label_name&gt;: equ $-msg | Save the length of the message in the data section. |
+| .&lt;decl_name&gt; | Declaration - defines a part/block of code, we can use it to jump to it - it works in tandem with the goto instruction (in NASM that is jmp, jg, jl etc.). |
+| push &lt;data&gt; | Pushes data on the stack.  <br>Often we have to push the rbp register on the stack at the beginning - rbp contains the <a data-id="https://softwareengineering.stackexchange.com/questions/194339/frame-pointer-explanation#:~:text=The%20frame%20pointer%20(%24fp,relative%20to%20the%20frame%20pointer." data-type="URL" href="https://softwareengineering.stackexchange.com/questions/194339/frame-pointer-explanation#:~:text=The%20frame%20pointer%20(%24fp,relative%20to%20the%20frame%20pointer." rel="noreferrer noopener" target="_blank">frame pointer</a>. |
+| call &lt;function&gt; | Calls an (external) function.   <br>Calls any function and then returns to where the function was called. |
+| cmp &lt;reg_a, req_b/var&gt; | Compare two values in registers/variables. |
+| jg .&lt;declaration&gt; | Jump to a declaration if a number was greater (a cmp instruction or similar should be used before). |
+| jl .&lt;declaration&gt; | Jump to a declaration if a number was lower (a cmp instruction or similar should be used before). |
+| jne .&lt;declaration&gt; | Jump to a declaration if a number was not equal (a cmp instruction or similar should be used before). |
+| inc &lt;reg/var&gt; | Increase the value of a register/variable by one. |
+| dec &lt;reg/var&gt; | Decrease the value of a register/variable by one. |
+| jmp .&lt;declaration&gt; | Jump to a specified declaration. |
+| pop &lt;reg&gt; | Pop value off a stack to a specified register. |
+| ret | Return/exit from the program. A return value should be specified in the %rax register. |
+| &lt;var_name&gt; resq &lt;n&gt; | Reserve n-qwords of data for later use. |
+| scanf | Input:  <br>%rdi - Input format - address to the format string,  <br>%rsi - Where to save the value,  <br>%rax - Save a 0 here.  <br>Output:  <br>Variable/register specified in %rsi |
+| printf | Input:  <br>%rdi - Output format - address to the format string,  <br>%rsi - What we are printing out,  <br>%rax - Set this to 0.  <br>Output:  <br>Specified value is printed out on the screen. |
+| div &lt;divisor&gt; | Input:  <br>%rax - Dividend,  <br>Output:  <br>%rax - Quotient,  <br>%rdx - Remainder. |
+| lodsb | Loads a byte from [%rsi] into %al. If the direction flag is set, decrements %rsi, else it increments. |
+| stosb | Stores a byte in %al into [%rdi]. If the direction flag is set, decrements %rdi, else increments. |
+| cld | Clears direction flag. |
+| std | Set direction flag. |
 
 Also useful are the data types in the .data section. Here is a list of them that I found.
 

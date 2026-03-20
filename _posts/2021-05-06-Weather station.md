@@ -1,8 +1,16 @@
 ---
-category: tech
 title: "Weather station"
 date: 2021-05-06
-image: /blog/media/d7223f_1620326443176.jpg
+image: /blog/media/wp_migration/d7223f_1620326443176.jpg
+tags:
+  - arduino
+  - python
+  - raspberry-pi
+  - weather-station
+  - c
+  - html
+categories:
+  - programming
 ---
 
 Here I will describe my weather station project, which can be accessed on this <a data-type="URL" href="http://weather.davidblog.si/" rel="noreferrer noopener" target="_blank"><s>weather.davidblog.si</s></a> [the weather station is not operational anymore]. The GitHub project can be accessed on this <a data-id="https://github.com/DavidJerman/WeatherStation" data-type="URL" href="https://github.com/DavidJerman/WeatherStation">URL</a>.
@@ -29,19 +37,13 @@ The weather station consists of a simple wooden housing, which of course is pain
 
 **The software**
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:46% auto">
-
-![Image](/blog/media/1384fa_kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa37f9672.5900311015338072675226.png)
-
-<div class="wp-block-media-text__content">
+![Image](/blog/media/wp_migration/1384fa_kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa37f9672.5900311015338072675226.png)
 
 The programming languages used in this project are Python, Arduino Language (C++) and HTML. The website was made using a python library Flask.
 
-![Image](/blog/media/0cab74_learning-python-programming-language-computer-programming-logo-photo-studio-flex-design-83d33107704fdee4724eb4f0b354f569.png)
+![Image](/blog/media/wp_migration/0cab74_learning-python-programming-language-computer-programming-logo-photo-studio-flex-design-83d33107704fdee4724eb4f0b354f569.png)
 
 *Python logo*
-
-</div></div>
 
 **How does it work**
 
@@ -176,7 +178,7 @@ while True:
 
 The temperature and humidity plots are created every 5 minutes for the past measurements. The graphs, data are also normalized, to make them nicer and more readable, as well as more reliable, since they are displaying averages over time. Here is and example of the temperature graph:
 
-![Image](/blog/media/cb627f_plot_compressed_2021_05_06_22_30.jpg)
+![Image](/blog/media/wp_migration/cb627f_plot_compressed_2021_05_06_22_30.jpg)
 
 *Temperature graph*
 

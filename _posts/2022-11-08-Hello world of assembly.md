@@ -1,8 +1,14 @@
 ---
-category: tech
 title: "Hello world of assembly"
 date: 2022-11-08
-image: /blog/media/89806b_assembly-programming-language-code-monitor-50939740.jpg
+image: /blog/media/wp_migration/89806b_assembly-programming-language-code-monitor-50939740.jpg
+tags:
+  - programming-en
+  - assembly-en
+  - computer_architecture-en
+categories:
+  - programming
+  - tech
 ---
 
 Assembly is the closest most programmers will ever get to hardware, since it is almost like machine language - just that the groups of bits are replaced with instructions. And while a hello world might be pretty simple in a high-level language like Python, Ruby, C++, C#, Java or something similar, it is not so simple in assembly, because even to write a basic hello world program we have to understand the computer architecture - how the components of a computer work together. Without that knowledge it is hard to understand assembly at all, so I will assume the reader has some knowledge of that, however I am leaving a video that describes the basics of <a data-id="https://www.youtube.com/watch?v=vgPFzblBh7w" data-type="URL" href="https://www.youtube.com/watch?v=vgPFzblBh7w" rel="noreferrer noopener" target="_blank">how the CPU works</a>. Also <a data-id="https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf" data-type="URL" href="https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf" rel="noreferrer noopener" target="_blank">here </a>is a guide on assembly programming that I found. It is also important to note that this code was developed and ran on a Linux system (Ubuntu 22.04.1 LTS x86_64) and might not work on other operating systems.
@@ -56,13 +62,13 @@ main:
 
 And here is the output of the program.
 
-![Image](/blog/media/c13aeb_Untitled.png)
+![Image](/blog/media/wp_migration/c13aeb_Untitled.png)
 
 Now, let us slowly dissect the program and each instruction. First of all the *extern *instruction is used to "include" other (C) functions in our assembly program. It just tells the compiler that we are using it and then the linker find the appropriate library. After that we have the *global main* instruction, which makes the symbol *main* visible to the linker, because the other object files will also use it - in this case we are using a printf C function. Then we have the *section* *.data* instruction, which tells the compiler that there will be a section where data is stored. When using *section .text* we tell the compiler that this section will contain code. Back to the data section, we have the *hello db "Hello world!", 10, 0* instruction, which is used for storing data. First we specify the date's name then comes the command *db* that indicated we are storing data of type *byte* and then comes the data itself. First we add the message, and then following the comma we add a number 10 - number 10 in ascii being a new line. At the end there is a number zero - in ascii a NUL character which indicated the end of a string.
 
 Then comes the main part of the code. The *pushad* instruction saves the values of registers. Why do we need to do this? We should always do this before calling another function, because that function might change the states of the registers that we are actively using, which might lead to unexpected, undefined behavior. However by pushing the registers on the stack and popping them back after the function has executed, we can avoid that. After that we push the pointer to hello message on the stack - this is needed for the printf function to work - it gets it's data from there. The *dword* parameter in the *push dword hello* instruction represents the data type - numerical value of size 32 bytes (byte - 8 bytes, word - 16 bytes, dword 32 bytes, quadword - 64 bytes). After that we call the printf function with *call printf*. The function executes and prints out the *Hello world!* message. After that we clear the stack with add esp, 4 (4, because the size of a dword, which we pushed on the stack is 4 bytes). By the way, *esp *is a register holding the stack pointer value - basically showing us a point on the stack. One important thing to note here is that the ASM stack does not start with zero, but with its last address of the stack. This means that adding new items to the stack will decrease the pointer's value instead of increasing it and removing items from the stack vice-versa - we can clear the stack by adding values to the stack pointer (*esp *register) with the *add* command - just be cautious not to go out of the stack. We can imagine the stack the following way - for this particular example I added the values that are added on the stack in the code (addresses used are just to represent the idea and do not correspond to actual values in the CPU stack).
 
-![Image](/blog/media/6b3c29_ASM_stack.png)
+![Image](/blog/media/wp_migration/6b3c29_ASM_stack.png)
 
 After that we just pop back the register values to return to the original state and return out of the program. Seems pretty complicated? It kind of is when compared to high-level programming languages. And do not forget the fact that we used a pre-written C function for printing out the message! In the next example I will write the same program but without using the C functions.
 
@@ -70,11 +76,11 @@ After that we just pop back the register values to return to the original state 
 
 This program will not use the print function and will use system calls to print out the message. We can look at the available system calls on <a data-id="https://filippo.io/linux-syscall-table/" data-type="URL" href="https://filippo.io/linux-syscall-table/" rel="noreferrer noopener" target="_blank">this website</a>. Since we are writing to the standard output ("the console window"), we need to look at the write system call. The website also suggests that in order to call the write system call we need to save the value 1 inside of the *rax* register - one of the registers for saving data. Here is a list of all registers available on most x64 platforms.
 
-![Image](/blog/media/7540f0_The-sixteen-x86-64-general-purpose-registers-and-their-sub-registers-1.png)
+![Image](/blog/media/wp_migration/7540f0_The-sixteen-x86-64-general-purpose-registers-and-their-sub-registers-1.png)
 
 Anyways, saving the value of 1 ensures that upon a system call the write function is called - which writes values to a provided stream (in our case the stream will be the standard output).
 
-![Image](/blog/media/e7855e_ASM_sys_write_parameters.png)
+![Image](/blog/media/wp_migration/e7855e_ASM_sys_write_parameters.png)
 
 Here is the code.
 

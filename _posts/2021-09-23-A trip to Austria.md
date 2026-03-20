@@ -1,13 +1,18 @@
 ---
-category: travel
 title: "A trip to Austria"
 date: 2021-09-23
-image: /blog/media/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg
+image: /blog/media/wp_migration/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg
+tags:
+  - austria-en
+  - lindau
+  - bodensee
+categories:
+  - travel
 ---
 
 Today I am writing about my long planned trip to Austria. And for those who do not know much of this Germanic country, here are some facts about this beautiful country.
 
-![Image](/blog/media/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg)
+![Image](/blog/media/wp_migration/58fec5_thumbs_b_c_c48eaa38278988af5a98c4156caa9db3.jpg)
 
 *Austrian flag*
 
@@ -21,7 +26,7 @@ But, to get back to the main theme of this post, Bregenz next to the Bodensee la
 
 ## Day 1
 
-![Image](/blog/media/fbc766_IMG_20210921_180155-1024x576.jpg)
+![Image](/blog/media/wp_migration/8b4b79_IMG_20210921_180155-scaled.jpg)
 
 *View on the lake from the apartment*
 
@@ -33,7 +38,7 @@ We began the second day with a decision to visit the neighboring city of Lindau,
 
 We headed there with a car, parking at a P+R parking on the mainland and then continued to the island on foot- Passing the bridge I took a quick photo of the lake and the mentioned sandbank in the distance. The lake was full of swans and ducks, which accompanied us during our simple breakfast next to the lake. 
 
-![Image](/blog/media/7d70ed_IMG_20210922_112556-1024x576.jpg)
+![Image](/blog/media/wp_migration/a657c0_IMG_20210922_112556-scaled.jpg)
 
 *View on the lake from the Lindau-mainland bridge*
 
@@ -41,48 +46,38 @@ After that we continued our trip to the island, wandering through the narrow str
 
 While observing the surroundings and the town hall, we also encountered a sight of a zeppelin flying across the sky, which is quite an uncommon occurrence in other countries. 
 
-![Image](/blog/media/7d70ed_IMG_20210922_112556-1024x576.jpg)
+![Image](/blog/media/wp_migration/a657c0_IMG_20210922_112556-scaled.jpg)
 
-![Image](/blog/media/6c666b_IMG_20210922_114630-769x1024.jpg)
+![Image](/blog/media/wp_migration/82318a_IMG_20210922_114630-scaled.jpg)
 
 *The streets of Lindau*
 
-![Image](/blog/media/73bc5a_IMG_20210922_114825-769x1024.jpg)
+![Image](/blog/media/wp_migration/26679f_IMG_20210922_114825-scaled.jpg)
 
 *The old Lindau town hall*
 
-![Image](/blog/media/4ff124_IMG_20210922_115323-1024x769.jpg)
+![Image](/blog/media/wp_migration/5d09ce_IMG_20210922_115323-scaled.jpg)
 
 *Zeppelin flying across Bodensee*
 
-![Image](/blog/media/05b106_IMG_20210922_115303-1024x769.jpg)
+![Image](/blog/media/wp_migration/bd9ad8_IMG_20210922_115303-scaled.jpg)
 
 *Lindau harbour with the lighthouse and the lion statue*
 
-![Image](/blog/media/577165_IMG_20210922_123440-769x1024.jpg)
+![Image](/blog/media/wp_migration/5fc5c6_IMG_20210922_123440-scaled.jpg)
 
 *The Bavarian Lion statue*
 
 Following that, we headed to the island's harbour, which has been historically a very important place for trade and fishing, dating back to the 19th century. Today however, it plays a big role in the tourism of Lindau, having many large boats that offer transport across the lake for the tourists to famous destinations such as Bregenz etc. The harbour is otherwise filled with expensive yachts and boats owned by mostly local residents. The harbour is also known for its interesting entrance: it having a lighthouse on one side and the Bavarian Lion sculpture on the other side. Standing next to the lion statues also revealed an interesting spot where people threw coins to bring them luck, so I tossed a coin as well and wished for a better weather in the following days. 
 
-<div class="wp-block-columns">
-<div class="wp-block-column">
-
-![Image](/blog/media/531fef_IMG_20210922_163015-473x1024.jpg)
+![Image](/blog/media/wp_migration/9784ba_IMG_20210922_163015-scaled.jpg)
 
 *Mangturm tower*
-
-</div>
-
-<div class="wp-block-column">
 
 At the harbour a tower called Mangturm was built, which in the past served as a jail for people. Following that, some of us headed to see the rest of the city and others headed to an art museum, which had a lot of paintings on diaply.
 
 We ended our day with a quick dinner of Asian food, that is noodles, yakitori (chicken meat - with soy sauce and teriyaki sauce marinade - grilled on a stick), as well as baozi (also bao) - a type of yeast-leavened filled bun in various Chinese cuisines. In the end, the evening has arrived and I managed to capture a photo of the beautiful red sky indicating the end of the day. 
 
-</div>
-</div>
-
-![Image](/blog/media/816a28_IMG_20210922_193840-1024x473.jpg)
+![Image](/blog/media/wp_migration/22478f_IMG_20210922_193840-scaled.jpg)
 
 *The red evening sky over the Bodensee lake*

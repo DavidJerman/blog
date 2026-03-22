@@ -3,8 +3,8 @@ title: "Examples of ASM code [x64 NASM]"
 date: 2022-11-25
 image: /blog/media/wp_migration/89806b_assembly-programming-language-code-monitor-50939740.jpg
 tags:
-  - programming-en
-  - assembly-en
+  - programming
+  - assembly
 categories:
   - programming
   - tech

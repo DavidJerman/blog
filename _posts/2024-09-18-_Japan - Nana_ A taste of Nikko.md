@@ -3,10 +3,10 @@ title: "[Japan - Nana] A taste of Nikko"
 date: 2024-09-18
 image: /blog/media/wp_migration/1a5be4_IMG_9025-1-scaled.jpg
 tags:
-  - japan-en
-  - duo-travel-en
+  - japan
+  - duo-travel
   - nikko-en
-  - travel-en
+  - travel
   - japan2024
 categories:
   - travel

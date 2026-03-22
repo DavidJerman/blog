@@ -3,7 +3,7 @@ title: "The inner working of JPEG"
 date: 2025-06-17
 image: /blog/media/wp_migration/a2a5d0_yuv_demo.png
 tags:
-  - programming-en
+  - programming
   - jpeg
   - compression
 categories:

@@ -3,13 +3,13 @@ title: "[Japan - Zero] Ich fahre nach Japan"
 date: 2024-09-04
 image: /blog/media/wp_migration/bd5226_PXL_20240903_095337540-scaled.jpg
 tags:
-  - duo-travel-en
+  - duo-travel
   - vienna-en
-  - travel-en
-  - japan-en
+  - travel
+  - japan
   - kabukicho-en
   - tokyo-en
-  - austria-en
+  - austria
   - shinjuku-en
   - japan2024
 categories:

@@ -3,11 +3,11 @@ title: "[Romania] Day 2 - Hunedoara"
 date: 2024-04-28
 image: /blog/media/wp_migration/68dac8_IMG_0963.jpeg
 tags:
-  - road-trip-en
-  - travel-en
+  - road-trip
+  - travel
   - romania-en
   - hunedoara-en
-  - group-travel-en
+  - group-travel
   - romania2024
 categories:
   - travel

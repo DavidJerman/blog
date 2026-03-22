@@ -3,10 +3,10 @@ title: "[Japan - Kyuu] Nebuta Matsuri"
 date: 2024-09-23
 image: /blog/media/wp_migration/8c1d09_PXL_20240916_074342347-1-scaled.jpg
 tags:
-  - japan-en
-  - duo-travel-en
+  - japan
+  - duo-travel
   - aomori-en
-  - travel-en
+  - travel
   - japan2024
 categories:
   - travel

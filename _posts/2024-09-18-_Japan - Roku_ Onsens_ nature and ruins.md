@@ -3,7 +3,7 @@ title: "[Japan - Roku] Onsens, nature and ruins"
 date: 2024-09-18
 image: /blog/media/wp_migration/945a0f_PXL_20240912_062753591-scaled.jpg
 tags:
-  - duo-travel-en
+  - duo-travel
   - kinugawa-en
   - japan
   - kawaji-en

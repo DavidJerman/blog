@@ -3,10 +3,10 @@ title: "CPU Monitor [1] - A bit closer to hardware"
 date: 2022-11-07
 image: /blog/media/wp_migration/89806b_assembly-programming-language-code-monitor-50939740.jpg
 tags:
-  - cpu-en
-  - programming-en
-  - assembly-en
-  - c-en
+  - cpu
+  - programming
+  - assembly
+  - c
 categories:
   - programming
   - tech

@@ -10,6 +10,7 @@ tags:
 categories:
   - travel
 featured: true
+permalink: /posts/2023-japan-where-modern-meets-tradition
 ---
 
 Before I begin, let me clarify just one thing. This trip happened in September 2023, but I did not publish anything about it until now since it took me that long to finish this post. With this in mind, this was my first trip to Japan.

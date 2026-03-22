@@ -3,9 +3,9 @@ title: "Hello world of assembly"
 date: 2022-11-08
 image: /blog/media/wp_migration/89806b_assembly-programming-language-code-monitor-50939740.jpg
 tags:
-  - programming-en
-  - assembly-en
-  - computer_architecture-en
+  - programming
+  - assembly
+  - computer_architecture
 categories:
   - programming
   - tech

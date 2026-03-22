@@ -4,12 +4,12 @@ date: 2024-05-03
 image: /blog/media/wp_migration/68dac8_IMG_0963.jpeg
 tags:
   - biertan-en
-  - road-trip-en
+  - road-trip
   - sighisoara-en
-  - travel-en
+  - travel
   - romania-en
   - media-en
-  - group-travel-en
+  - group-travel
   - romania2024
 categories:
   - travel

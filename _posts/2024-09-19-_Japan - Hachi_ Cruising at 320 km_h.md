@@ -3,9 +3,9 @@ title: "[Japan - Hachi] Cruising at 320 km/h"
 date: 2024-09-19
 image: /blog/media/wp_migration/35d387_PXL_20240914_061548489-1-scaled.jpg
 tags:
-  - duo-travel-en
-  - travel-en
-  - japan-en
+  - duo-travel
+  - travel
+  - japan
   - shinkansen-en
   - fukushima-en
   - japan2024

@@ -3,11 +3,11 @@ title: "[Japan - Juu] The Sendai incident"
 date: 2024-09-23
 image: /blog/media/wp_migration/e0413d_PXL_20240919_084335987-1-scaled.jpg
 tags:
-  - duo-travel-en
+  - duo-travel
   - aomori-en
   - sendai-en
-  - travel-en
-  - japan-en
+  - travel
+  - japan
   - japan2024
 categories:
   - travel

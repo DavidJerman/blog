@@ -3,11 +3,11 @@ title: "[Romania] Day 7 - Turda Salt Mine"
 date: 2024-05-09
 image: /blog/media/wp_migration/68dac8_IMG_0963.jpeg
 tags:
-  - road-trip-en
+  - road-trip
   - turda-en
-  - travel-en
+  - travel
   - romania-en
-  - group-travel-en
+  - group-travel
   - romania2024
 categories:
   - travel

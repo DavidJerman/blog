@@ -3,10 +3,10 @@ title: "[Japan - Ni] Bunraku"
 date: 2024-09-08
 image: /blog/media/wp_migration/9dc415_PXL_20240906_090405047-1-scaled.jpg
 tags:
-  - duo-travel-en
-  - travel-en
+  - duo-travel
+  - travel
   - bunraku-en
-  - japan-en
+  - japan
   - tokyo-en
   - japan2024
 categories:

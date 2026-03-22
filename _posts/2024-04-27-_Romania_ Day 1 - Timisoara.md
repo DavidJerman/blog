@@ -3,10 +3,10 @@ title: "[Romania] Day 1 - Timisoara"
 date: 2024-04-27
 image: /blog/media/wp_migration/68dac8_IMG_0963.jpeg
 tags:
-  - road-trip-en
-  - travel-en
+  - road-trip
+  - travel
   - romania-en
-  - group-travel-en
+  - group-travel
   - timisoara-en
   - romania2024
 categories:

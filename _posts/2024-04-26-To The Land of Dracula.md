@@ -3,10 +3,10 @@ title: "To The Land of Dracula"
 date: 2024-04-26
 image: /blog/media/wp_migration/68dac8_IMG_0963.jpeg
 tags:
-  - group-travel-en
+  - group-travel
   - romania-en
-  - road-trip-en
-  - travel-en
+  - road-trip
+  - travel
   - romania2024
 categories:
   - travel

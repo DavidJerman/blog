@@ -3,10 +3,10 @@ title: "[Japan - Yon] Izu Oshima"
 date: 2024-09-14
 image: /blog/media/wp_migration/2dbf3c_PXL_20240910_014612583-scaled.jpg
 tags:
-  - japan-en
-  - duo-travel-en
+  - japan
+  - duo-travel
   - izu-oshima-2-en
-  - travel-en
+  - travel
   - japan2024
 categories:
   - travel

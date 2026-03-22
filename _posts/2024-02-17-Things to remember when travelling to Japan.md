@@ -3,10 +3,10 @@ title: "Things to remember when travelling to Japan"
 date: 2024-02-17
 image: /blog/media/wp_migration/013d47_cover_2-min-scaled.jpg
 tags:
-  - travel-en
-  - japan-en
-  - solo-travel-en
-  - tips-and-tricks-en
+  - travel
+  - japan
+  - solo-travel
+  - tips-and-tricks
   - japanguides
 categories:
   - travel

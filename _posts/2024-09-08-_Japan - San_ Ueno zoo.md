@@ -3,9 +3,9 @@ title: "[Japan - San] Ueno zoo"
 date: 2024-09-08
 image: /blog/media/wp_migration/e99fe7_PXL_20240908_033255963-1.jpg
 tags:
-  - duo-travel-en
-  - travel-en
-  - japan-en
+  - duo-travel
+  - travel
+  - japan
   - ueno-en
   - tokyo-en
   - japan2024

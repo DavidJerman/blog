@@ -3,7 +3,7 @@ title: "Another trip yet again..."
 date: 2024-08-27
 image: /blog/media/wp_migration/c96129_image.png
 tags:
-  - duo-travel-en
+  - duo-travel
   - hiroshima-en
   - kyoto-en
   - japan

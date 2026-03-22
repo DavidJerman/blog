@@ -3,9 +3,9 @@ title: "[Japan - Ichi] It’s fashion day!"
 date: 2024-09-05
 image: /blog/media/wp_migration/76cbe5_PXL_20240905_093241132-1-scaled.jpg
 tags:
-  - duo-travel-en
-  - travel-en
-  - japan-en
+  - duo-travel
+  - travel
+  - japan
   - shibuya-en
   - harajuku-en
   - tokyo-en

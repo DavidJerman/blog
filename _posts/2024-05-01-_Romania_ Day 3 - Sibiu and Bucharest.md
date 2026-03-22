@@ -3,11 +3,11 @@ title: "[Romania] Day 3 - Sibiu and Bucharest"
 date: 2024-05-01
 image: /blog/media/wp_migration/68dac8_IMG_0963.jpeg
 tags:
-  - road-trip-en
-  - travel-en
+  - road-trip
+  - travel
   - romania-en
   - sibiu-en
-  - group-travel-en
+  - group-travel
   - bucharest-en
   - romania2024
 categories:

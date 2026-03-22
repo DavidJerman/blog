@@ -4,11 +4,11 @@ date: 2023-01-21
 image: /blog/media/wp_migration/6cb21c_image-3.png
 tags:
   - micro-architecture-en
-  - mic1-en
-  - mac1-en
-  - cpu-en
-  - c-en
-  - programming-en
+  - mic1
+  - mac1
+  - cpu
+  - c
+  - programming
 categories:
   - programming
   - tech

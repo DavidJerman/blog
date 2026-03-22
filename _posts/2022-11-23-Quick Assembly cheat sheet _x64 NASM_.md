@@ -3,8 +3,8 @@ title: "Quick Assembly cheat sheet [x64 NASM]"
 date: 2022-11-23
 image: /blog/media/wp_migration/89806b_assembly-programming-language-code-monitor-50939740.jpg
 tags:
-  - programming-en
-  - assembly-en
+  - programming
+  - assembly
 categories:
   - programming
   - tech

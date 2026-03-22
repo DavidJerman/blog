@@ -3,9 +3,9 @@ title: "[Japan - Go] Misfortune on Izu Oshima"
 date: 2024-09-15
 image: /blog/media/wp_migration/baa592_PXL_20240911_024945158-scaled.jpg
 tags:
-  - duo-travel-en
-  - travel-en
-  - japan-en
+  - duo-travel
+  - travel
+  - japan
   - tokyo-en
   - izu-oshima-2-en
   - japan2024

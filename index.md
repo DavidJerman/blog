@@ -32,6 +32,15 @@ Welcome! This is where I document my deep dives into tech stuff (mostly programm
 </details>
 
 <details>
+<summary>☄️ <b>Asia 2026/27</b></summary>
+<ul>
+  {% for post in site.tags.asia2026_27 reversed %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+</details>
+
+<details>
 <summary>🌸 <b>Japan 2025</b></summary>
 <ul>
   {% for post in site.tags.japan2025 reversed %}
